@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![Tableau](https://img.shields.io/badge/Tool-Tableau-orange)
+![Status](https://img.shields.io/badge/Project-Completed-success)
 # 📊 Checkout Experiment & Growth Analytics System 
 
 An end-to-end analytics project evaluating a checkout redesign using A/B testing, funnel diagnostics, and business impact modeling.
