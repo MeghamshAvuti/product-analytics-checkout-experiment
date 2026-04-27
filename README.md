@@ -73,7 +73,7 @@ project/
 ├── final_story/
 │ └── final_memo.pdf # Business recommendation
 │
-├── venv/ # Local Python environment (optional)
+├── requirements.txt/
 │
 └── README.md
 
@@ -90,11 +90,7 @@ project/
 - Contains final curated datasets
 - All analysis depends on this folder
 
-### 🔹 venv/
-- Local virtual environment
-- Included for completeness
-- ⚠️ Not required to run the project
-- Can be ignored or recreated
+### 🔹 requirements.txt/
 
 ---
 
@@ -107,10 +103,12 @@ project/
 - statsmodels
 - Tableau Desktop (for dashboard)
 
+## ⚙️ Setup
+
 Install dependencies:
 
 ```bash
-pip install pandas numpy matplotlib statsmodels
+pip install -r requirements.txt
 ```
 
 ## 🔄 How to Run the Project
