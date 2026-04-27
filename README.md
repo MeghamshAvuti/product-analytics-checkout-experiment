@@ -111,6 +111,7 @@ Install dependencies:
 
 ```bash
 pip install pandas numpy matplotlib statsmodels
+```
 
 ## 🔄 How to Run the Project
 
