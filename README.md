@@ -5,6 +5,13 @@ An end-to-end analytics project evaluating a checkout redesign using A/B testing
 This repository contains the **complete workflow** — including raw data, ETL pipeline, analysis, dashboards, and final business recommendations.
 
 ---
+## 🛠 Tech Stack
+
+- Python (pandas, numpy, matplotlib, statsmodels)
+- Tableau (Dashboarding)
+- Jupyter Notebook (Analysis)
+- SQL-style data modeling (fact/dimension tables)
+
 ## 📸 Dashboard Preview
 
 > Executive Summary and Experiment Insights
@@ -31,6 +38,18 @@ To solve this, the project implements a full analytics pipeline:
 - Executive decision memo
 
 ---
+## 🎯 Business Problem
+
+A new checkout design (Variant B) was introduced to improve user conversion.
+
+However, improving conversion alone is not sufficient —  
+the goal is to maximize **revenue per session** while maintaining user experience.
+
+This project evaluates whether Variant B should be rolled out based on:
+- Conversion impact
+- Revenue trade-offs
+- Statistical significance
+- Segment-level performance
 
 ## 🧠 Key Insights
 
@@ -51,6 +70,7 @@ Variant B improves conversion but introduces revenue risk → rollout not recomm
 
 ## 📂 Project Structure
 
+```bash
 project/
 │
 ├── raw_data/ # Original input datasets
@@ -73,10 +93,10 @@ project/
 ├── final_story/
 │ └── final_memo.pdf # Business recommendation
 │
-├── requirements.txt/
+├── requirements.txt
 │
 └── README.md
-
+```
 ---
 
 ## ⚠️ Important Notes
@@ -91,6 +111,7 @@ project/
 - All analysis depends on this folder
 
 ### 🔹 requirements.txt/
+-Contains all Python dependencies required to run the project.
 
 ---
 
@@ -113,18 +134,19 @@ pip install -r requirements.txt
 
 ## 🔄 How to Run the Project
 
-### Option 1 — Run Full Pipeline (Recommended)
+### Option 1 — Full Pipeline
+
 Step 1: Run ETL
+```bash
 cd etl
 python etl_pipeline.py
+```
 
-This generates datasets inside /data/.
+Then open:
 
-Step 2: Run Analysis
-
-Open:
-
+```bash
 analysis/analysis.ipynb
+```
 
 Run all cells to reproduce:
 
@@ -133,6 +155,8 @@ KPI trends
 A/B testing
 Segment insights
 Business impact
+
+
 
 ### Option 2 — Skip ETL (Quick Run)
 
@@ -205,6 +229,12 @@ dashboard/checkout_experiment_dashboard.twbx
 - Statistical validation is essential  
 
 ---
+## 🔁 Reproducibility
+
+- Run ETL to regenerate datasets OR
+- Use pre-built datasets in `/data/`
+- Run notebook end-to-end
+- Open Tableau dashboard for visualization
 
 📌 Why This Project Matters
 
@@ -216,17 +246,24 @@ This project demonstrates:
 - Practical product analytics skills  
 
 ---
+## 📢 Impact
+
+This project simulates real-world product analytics workflows and demonstrates:
+
+- Data engineering (ETL pipelines)
+- Product analytics thinking
+- Experimentation design
+- Statistical decision-making
+- Business-focused storytelling
+
+Suitable for roles in:
+- Product Analytics
+- Data Science
+- Growth Analytics
 
  ⚠️ Repository Note
 
-Including `venv/` is fine for completeness, but:
+The virtual environment (`venv/`) is excluded as per best practices.
+Dependencies are managed via `requirements.txt`.
 
-- It increases repository size  
-- It is not required to run the project  
-- It is not considered best practice  
 
-### Recommended `.gitignore`
-
-venv/
-pycache/
-.ipynb_checkpoints/
