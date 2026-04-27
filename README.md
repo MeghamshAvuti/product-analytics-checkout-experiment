@@ -165,8 +165,7 @@ Business impact
 
 If /data/ already exists:
 
-Open notebook directly
-Run all cells to reproduce:
+Open the notebook (`analysis.ipynb`) and run all cells to reproduce:
 
 - Funnel analysis  
 - KPI trends  
@@ -271,7 +270,7 @@ Suitable for roles in:
 - Data Science
 - Growth Analytics
 
- ## ⚠️ Repository Note
+## ⚠️ Repository Note
 
 The virtual environment (`venv/`) is excluded as per best practices.
 Dependencies are managed via `requirements.txt`.
