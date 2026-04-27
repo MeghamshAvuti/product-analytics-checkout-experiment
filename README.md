@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 # 📊 Checkout Experiment & Growth Analytics System 
 
-An end-to-end analytics project evaluating a checkout redesign using A/B testing, funnel diagnostics, and business impact modeling.
+> 🚀 End-to-end product analytics project simulating real-world A/B experimentation and growth decision-making.
 
 This repository contains the **complete workflow** — including raw data, ETL pipeline, analysis, dashboards, and final business recommendations.
 
@@ -113,8 +113,8 @@ project/
 - Contains final curated datasets
 - All analysis depends on this folder
 
-### 🔹 requirements.txt/
--Contains all Python dependencies required to run the project.
+### 🔹 requirements.txt
+- Contains all Python dependencies required to run the project
 
 ---
 
@@ -166,13 +166,21 @@ Business impact
 If /data/ already exists:
 
 Open notebook directly
-Run all cells
+Run all cells to reproduce:
 
-📊 Dashboard
+- Funnel analysis  
+- KPI trends  
+- A/B testing  
+- Segment insights  
+- Business impact  
+
+## 📊 Dashboard
 
 Open in Tableau:
 
+```bash
 dashboard/checkout_experiment_dashboard.twbx
+```
 
 
 ### Views Included:
@@ -239,8 +247,7 @@ dashboard/checkout_experiment_dashboard.twbx
 - Run notebook end-to-end
 - Open Tableau dashboard for visualization
 
-📌 Why This Project Matters
-
+## 📌 Why This Project Matters
 This project demonstrates:
 
 - End-to-end analytics workflow  
@@ -264,7 +271,7 @@ Suitable for roles in:
 - Data Science
 - Growth Analytics
 
- ⚠️ Repository Note
+ ## ⚠️ Repository Note
 
 The virtual environment (`venv/`) is excluded as per best practices.
 Dependencies are managed via `requirements.txt`.
