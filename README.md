@@ -207,7 +207,7 @@ dashboard/checkout_experiment_dashboard.twbx
 
 ---
 
-## 📌 Why This Project Matters
+📌 Why This Project Matters
 
 This project demonstrates:
 
@@ -218,7 +218,7 @@ This project demonstrates:
 
 ---
 
-## ⚠️ Repository Note
+ ⚠️ Repository Note
 
 Including `venv/` is fine for completeness, but:
 
