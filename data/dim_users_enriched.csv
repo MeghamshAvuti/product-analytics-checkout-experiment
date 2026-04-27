@@ -1,0 +1,2201 @@
+user_id,signup_date,city_tier,segment,preferred_device,lifetime_sessions,lifetime_orders,first_order_date,last_order_date,total_spend,repeat_rate_flag,user_value_band
+U000001,2025-07-16,1,premium,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000002,2025-12-29,3,regular,mobile,5.0,1.0,2025-11-14 09:34:01,2025-11-14 09:34:01,11632.7,False,High
+U000003,2025-11-26,3,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000004,2025-09-01,2,value,mobile,5.0,1.0,2025-11-06 14:06:09,2025-11-06 14:06:09,9153.61,False,High
+U000005,2025-10-06,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000006,2025-11-09,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000007,2025-06-28,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000008,2025-10-06,2,premium,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000009,2025-11-24,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000010,2025-08-01,1,premium,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000011,2025-09-24,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000012,2025-10-13,3,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U000013,2025-11-24,2,regular,mobile,3.0,1.0,2025-12-04 17:09:01,2025-12-04 17:09:01,5763.81,False,High
+U000014,2026-01-11,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000015,2025-12-18,1,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U000016,2025-10-31,2,value,web,1.0,0.0,,,0.0,False,No Purchase
+U000017,2025-10-24,2,premium,web,4.0,2.0,2025-11-09 03:06:16,2026-01-15 05:17:35,18172.43,True,High
+U000018,2025-10-28,3,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000019,2025-10-15,3,value,web,5.0,1.0,2025-12-21 04:16:33,2025-12-21 04:16:33,7555.56,False,High
+U000020,2025-07-05,3,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U000021,2025-11-17,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000022,2025-11-20,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000023,2025-10-09,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000024,2025-12-23,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000025,2025-11-11,1,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000026,2025-09-07,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000027,2025-06-27,2,value,web,1.0,0.0,,,0.0,False,No Purchase
+U000028,2025-07-05,1,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000029,2025-09-05,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000030,2025-09-28,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000031,2025-07-28,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000032,2025-08-02,1,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000033,2025-08-10,2,value,web,7.0,0.0,,,0.0,False,No Purchase
+U000034,2025-12-04,1,regular,mobile,6.0,0.0,,,0.0,False,No Purchase
+U000035,2025-12-02,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000036,2025-09-11,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000037,2025-07-29,3,premium,web,4.0,1.0,2025-11-29 23:36:12,2025-11-29 23:36:12,4987.15,False,High
+U000038,2025-07-16,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000039,2025-07-11,2,premium,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000040,2025-09-13,2,value,web,3.0,1.0,2026-01-18 07:26:40,2026-01-18 07:26:40,7716.68,False,High
+U000041,2025-07-03,3,value,web,6.0,1.0,2025-11-06 12:43:35,2025-11-06 12:43:35,7521.55,False,High
+U000042,2025-09-01,3,regular,web,5.0,1.0,2026-01-11 04:13:19,2026-01-11 04:13:19,595.56,False,High
+U000043,2026-01-11,1,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000044,2025-10-08,3,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000045,2025-12-13,1,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000046,2025-07-20,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000047,2025-08-18,1,regular,web,4.0,1.0,2026-01-17 14:03:09,2026-01-17 14:03:09,4842.26,False,High
+U000048,2026-01-08,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000049,2025-09-11,3,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000050,2025-11-06,1,premium,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000051,2026-01-14,2,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000052,2025-10-17,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000053,2025-08-26,1,regular,web,5.0,1.0,2025-11-26 05:37:14,2025-11-26 05:37:14,4816.43,False,High
+U000054,2025-10-13,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000055,2025-07-04,3,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000056,2025-07-17,3,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000057,2025-06-24,2,value,web,4.0,1.0,2025-12-21 11:28:23,2025-12-21 11:28:23,3360.75,False,High
+U000058,2025-12-26,2,value,mobile,4.0,1.0,2025-11-30 03:40:46,2025-11-30 03:40:46,13218.46,False,High
+U000059,2025-11-11,1,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000060,2025-08-25,1,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000061,2025-08-08,1,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000062,2025-11-13,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000063,2026-01-02,3,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000064,2025-08-25,3,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000065,2025-08-29,2,value,web,5.0,1.0,2025-12-01 23:31:23,2025-12-01 23:31:23,2272.9,False,High
+U000066,2025-12-19,2,premium,web,5.0,1.0,2025-12-14 09:32:12,2025-12-14 09:32:12,18171.94,False,High
+U000067,2025-12-28,2,value,mobile,3.0,1.0,2025-10-28 09:25:31,2025-10-28 09:25:31,14428.02,False,High
+U000068,2026-01-01,2,premium,mobile,0.0,0.0,,,0.0,False,No Purchase
+U000069,2025-08-24,2,premium,web,4.0,0.0,,,0.0,False,No Purchase
+U000070,2025-07-18,1,value,web,7.0,1.0,2026-01-04 00:18:42,2026-01-04 00:18:42,7896.56,False,High
+U000071,2025-09-23,1,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000072,2025-08-24,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000073,2025-12-26,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000074,2025-07-01,3,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000075,2025-11-03,1,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000076,2025-12-30,2,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000077,2026-01-14,1,regular,web,6.0,0.0,,,0.0,False,No Purchase
+U000078,2025-11-06,2,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U000079,2026-01-08,1,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000080,2025-07-09,1,regular,web,8.0,0.0,,,0.0,False,No Purchase
+U000081,2025-09-06,3,premium,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000082,2025-06-25,2,regular,mobile,6.0,1.0,2026-01-12 11:52:48,2026-01-12 11:52:48,8970.92,False,High
+U000083,2026-01-15,2,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000084,2025-12-30,2,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U000085,2025-06-29,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000086,2025-06-27,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000087,2025-09-08,1,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000088,2025-08-16,3,premium,web,8.0,0.0,,,0.0,False,No Purchase
+U000089,2025-12-18,3,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000090,2025-07-27,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000091,2025-12-06,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000092,2025-10-17,1,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000093,2025-09-10,3,value,mobile,6.0,1.0,2026-01-16 07:19:58,2026-01-16 07:19:58,10516.94,False,High
+U000094,2025-07-24,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000095,2026-01-18,1,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U000096,2025-10-31,2,value,web,1.0,0.0,,,0.0,False,No Purchase
+U000097,2025-09-23,3,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000098,2025-09-09,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000099,2025-12-30,3,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000100,2025-12-12,3,regular,mobile,0.0,0.0,,,0.0,False,No Purchase
+U000101,2025-12-10,1,regular,web,3.0,1.0,2025-12-04 14:05:19,2025-12-04 14:05:19,6894.45,False,High
+U000102,2025-10-30,3,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000103,2025-12-26,2,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U000104,2025-08-25,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000105,2025-11-18,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000106,2025-09-16,3,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000107,2025-10-27,2,premium,web,4.0,0.0,,,0.0,False,No Purchase
+U000108,2026-01-19,1,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000109,2026-01-16,2,premium,web,3.0,0.0,,,0.0,False,No Purchase
+U000110,2025-10-09,1,premium,web,3.0,1.0,2025-12-16 01:26:55,2025-12-16 01:26:55,7500.35,False,High
+U000111,2025-10-21,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000112,2025-12-28,2,premium,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000113,2026-01-16,2,regular,mobile,2.0,1.0,2025-11-05 23:33:47,2025-11-05 23:33:47,4696.73,False,High
+U000114,2025-12-03,3,value,web,5.0,1.0,2025-10-28 14:19:24,2025-10-28 14:19:24,7094.32,False,High
+U000115,2025-07-07,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000116,2025-08-30,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000117,2025-12-28,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000118,2025-12-01,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U000119,2025-11-26,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000120,2025-11-10,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U000121,2025-09-18,3,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000122,2025-09-16,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000123,2025-12-10,1,regular,web,4.0,1.0,2026-01-14 22:52:55,2026-01-14 22:52:55,13081.56,False,High
+U000124,2025-08-24,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000125,2025-11-14,3,value,mobile,6.0,0.0,,,0.0,False,No Purchase
+U000126,2025-11-22,1,value,web,1.0,0.0,,,0.0,False,No Purchase
+U000127,2025-12-17,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000128,2025-08-29,3,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000129,2025-11-26,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000130,2025-07-15,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000131,2025-07-22,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U000132,2025-09-19,2,value,mobile,6.0,0.0,,,0.0,False,No Purchase
+U000133,2025-07-05,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000134,2026-01-08,3,regular,mobile,7.0,0.0,,,0.0,False,No Purchase
+U000135,2025-12-29,2,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000136,2025-07-03,3,regular,mobile,0.0,0.0,,,0.0,False,No Purchase
+U000137,2025-12-16,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000138,2025-10-08,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000139,2025-11-17,3,value,web,1.0,0.0,,,0.0,False,No Purchase
+U000140,2025-12-26,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000141,2025-10-22,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000142,2025-07-17,2,value,mobile,4.0,2.0,2025-12-16 23:21:24,2025-12-21 23:39:21,19102.239999999998,True,High
+U000143,2025-06-23,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000144,2025-10-05,2,premium,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000145,2026-01-08,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000146,2025-10-21,2,regular,mobile,3.0,1.0,2025-12-03 17:49:48,2025-12-03 17:49:48,5871.83,False,High
+U000147,2025-09-09,1,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000148,2025-06-29,1,premium,web,3.0,1.0,2025-11-23 00:50:48,2025-11-23 00:50:48,2405.75,False,High
+U000149,2026-01-01,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000150,2025-08-31,2,premium,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000151,2025-11-18,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000152,2025-11-16,1,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000153,2025-08-15,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000154,2025-07-06,1,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000155,2025-09-12,3,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U000156,2025-08-29,3,premium,web,3.0,0.0,,,0.0,False,No Purchase
+U000157,2025-11-17,1,regular,web,5.0,1.0,2026-01-04 15:20:57,2026-01-04 15:20:57,6058.84,False,High
+U000158,2025-12-12,2,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U000159,2025-08-09,1,regular,mobile,0.0,0.0,,,0.0,False,No Purchase
+U000160,2025-10-12,2,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000161,2025-07-01,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000162,2025-08-07,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000163,2025-11-30,2,regular,web,4.0,1.0,2025-12-15 20:22:28,2025-12-15 20:22:28,7014.68,False,High
+U000164,2025-12-07,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000165,2025-12-03,1,value,mobile,5.0,1.0,2025-10-29 01:48:15,2025-10-29 01:48:15,8193.03,False,High
+U000166,2025-07-23,2,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U000167,2025-10-17,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000168,2025-09-20,3,value,mobile,2.0,2.0,2025-10-23 11:12:57,2025-12-11 10:37:48,5260.25,True,High
+U000169,2026-01-17,2,regular,web,6.0,2.0,2025-12-01 04:26:15,2025-12-02 02:56:55,12280.47,True,High
+U000170,2025-11-07,2,value,web,1.0,0.0,,,0.0,False,No Purchase
+U000171,2026-01-05,2,regular,mobile,7.0,0.0,,,0.0,False,No Purchase
+U000172,2025-07-23,2,value,web,6.0,0.0,,,0.0,False,No Purchase
+U000173,2025-09-26,3,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000174,2025-12-02,2,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000175,2025-09-08,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000176,2025-11-03,1,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U000177,2025-10-08,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000178,2026-01-17,3,premium,mobile,8.0,1.0,2025-11-25 09:53:13,2025-11-25 09:53:13,3139.82,False,High
+U000179,2025-07-29,2,regular,web,6.0,1.0,2025-12-09 13:24:47,2025-12-09 13:24:47,3384.29,False,High
+U000180,2026-01-05,2,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000181,2025-09-15,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000182,2025-09-29,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000183,2025-10-12,2,regular,web,8.0,0.0,,,0.0,False,No Purchase
+U000184,2025-08-18,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000185,2026-01-11,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000186,2025-12-31,2,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000187,2026-01-13,2,value,mobile,3.0,1.0,2025-12-01 14:29:39,2025-12-01 14:29:39,12824.15,False,High
+U000188,2026-01-18,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000189,2025-11-11,3,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000190,2025-09-26,3,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000191,2025-12-19,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000192,2025-06-28,3,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000193,2025-12-15,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000194,2025-10-05,3,regular,mobile,4.0,1.0,2026-01-15 22:53:20,2026-01-15 22:53:20,2848.01,False,High
+U000195,2025-11-11,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000196,2025-09-09,2,value,web,3.0,1.0,2025-12-31 20:51:04,2025-12-31 20:51:04,2865.2,False,High
+U000197,2025-09-08,2,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000198,2025-06-30,1,regular,web,6.0,2.0,2025-12-12 01:00:34,2026-01-15 15:01:09,20890.89,True,High
+U000199,2025-09-20,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000200,2025-09-17,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000201,2025-08-09,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000202,2025-08-14,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000203,2025-10-24,2,premium,web,0.0,0.0,,,0.0,False,No Purchase
+U000204,2025-08-29,1,regular,mobile,2.0,1.0,2025-11-23 19:31:22,2025-11-23 19:31:22,10781.8,False,High
+U000205,2025-12-14,3,regular,web,4.0,1.0,2025-11-23 19:54:59,2025-11-23 19:54:59,3467.37,False,High
+U000206,2025-07-16,3,regular,web,3.0,1.0,2025-12-04 05:09:20,2025-12-04 05:09:20,13218.3,False,High
+U000207,2025-10-22,1,value,web,2.0,1.0,2025-12-27 04:54:16,2025-12-27 04:54:16,11093.67,False,High
+U000208,2025-07-27,1,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U000209,2025-10-12,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000210,2025-10-17,3,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000211,2025-11-05,3,premium,mobile,2.0,1.0,2025-12-01 03:11:40,2025-12-01 03:11:40,11109.92,False,High
+U000212,2025-09-21,1,regular,mobile,0.0,0.0,,,0.0,False,No Purchase
+U000213,2025-10-08,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000214,2025-07-31,1,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000215,2025-09-28,2,value,web,3.0,2.0,2025-11-01 19:18:39,2025-11-26 11:18:12,13159.98,True,High
+U000216,2025-09-09,3,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000217,2025-11-10,1,value,mobile,4.0,1.0,2025-11-20 09:10:14,2025-11-20 09:10:14,1656.65,False,High
+U000218,2025-09-22,1,premium,web,6.0,0.0,,,0.0,False,No Purchase
+U000219,2025-12-04,2,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U000220,2025-09-20,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000221,2025-08-11,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000222,2025-08-19,3,value,web,1.0,0.0,,,0.0,False,No Purchase
+U000223,2025-07-02,1,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000224,2025-10-14,1,regular,web,2.0,1.0,2026-01-09 19:06:07,2026-01-09 19:06:07,11804.6,False,High
+U000225,2025-12-14,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000226,2025-12-01,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000227,2025-09-23,3,value,mobile,5.0,2.0,2025-11-13 13:26:46,2025-12-17 11:34:39,10729.46,True,High
+U000228,2025-08-03,2,value,web,1.0,0.0,,,0.0,False,No Purchase
+U000229,2025-12-21,1,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U000230,2025-07-05,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000231,2025-09-15,1,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000232,2025-12-20,2,regular,web,6.0,0.0,,,0.0,False,No Purchase
+U000233,2025-09-14,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000234,2025-07-18,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000235,2025-08-18,2,regular,web,4.0,1.0,2025-11-23 05:42:22,2025-11-23 05:42:22,14063.86,False,High
+U000236,2025-10-27,2,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000237,2025-07-25,3,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000238,2025-11-07,3,premium,web,3.0,0.0,,,0.0,False,No Purchase
+U000239,2025-09-23,2,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000240,2025-09-01,1,value,web,9.0,0.0,,,0.0,False,No Purchase
+U000241,2025-08-13,3,value,web,5.0,2.0,2025-11-04 14:19:10,2025-11-24 19:13:57,15728.330000000002,True,High
+U000242,2025-12-13,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000243,2025-09-14,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000244,2025-11-25,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000245,2025-09-23,2,premium,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000246,2025-07-12,1,value,web,5.0,1.0,2026-01-11 08:39:04,2026-01-11 08:39:04,3356.89,False,High
+U000247,2025-09-23,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000248,2025-10-08,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000249,2025-09-27,3,regular,web,6.0,2.0,2025-11-03 09:30:12,2026-01-07 02:31:55,9584.93,True,High
+U000250,2025-12-11,3,value,mobile,3.0,1.0,2026-01-02 20:11:38,2026-01-02 20:11:38,3388.02,False,High
+U000251,2025-12-31,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000252,2025-12-05,2,regular,mobile,4.0,1.0,2025-10-22 10:11:15,2025-10-22 10:11:15,1049.49,False,High
+U000253,2025-10-23,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000254,2025-10-15,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000255,2025-11-05,3,regular,mobile,4.0,1.0,2025-11-09 04:17:13,2025-11-09 04:17:13,952.32,False,High
+U000256,2025-08-22,2,regular,mobile,4.0,2.0,2025-10-21 14:41:34,2025-12-25 06:15:33,5247.93,True,High
+U000257,2025-12-10,3,regular,web,6.0,1.0,2026-01-16 21:38:10,2026-01-16 21:38:10,2335.03,False,High
+U000258,2025-12-20,1,value,web,3.0,1.0,2026-01-12 11:55:50,2026-01-12 11:55:50,5082.46,False,High
+U000259,2025-08-18,3,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000260,2025-12-30,1,value,web,6.0,0.0,,,0.0,False,No Purchase
+U000261,2025-12-18,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000262,2025-09-20,2,regular,mobile,7.0,0.0,,,0.0,False,No Purchase
+U000263,2025-12-31,1,regular,mobile,0.0,0.0,,,0.0,False,No Purchase
+U000264,2025-07-18,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000265,2025-06-29,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000266,2025-09-04,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000267,2025-10-20,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000268,2025-09-05,1,value,mobile,4.0,1.0,2025-10-26 05:46:16,2025-10-26 05:46:16,12085.23,False,High
+U000269,2026-01-07,2,value,web,3.0,1.0,2025-11-17 12:31:43,2025-11-17 12:31:43,14770.29,False,High
+U000270,2025-08-15,3,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U000271,2025-08-21,1,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000272,2025-11-03,1,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000273,2025-06-24,3,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000274,2025-11-23,3,regular,mobile,8.0,0.0,,,0.0,False,No Purchase
+U000275,2025-09-10,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000276,2026-01-14,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000277,2025-11-15,1,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000278,2025-07-04,2,premium,web,3.0,0.0,,,0.0,False,No Purchase
+U000279,2025-07-12,3,value,web,6.0,1.0,2025-10-28 03:54:51,2025-10-28 03:54:51,11794.02,False,High
+U000280,2025-07-11,2,premium,web,6.0,1.0,2025-12-03 01:53:51,2025-12-03 01:53:51,4107.71,False,High
+U000281,2026-01-09,3,value,mobile,6.0,1.0,2025-11-10 21:19:03,2025-11-10 21:19:03,14921.68,False,High
+U000282,2025-11-14,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000283,2025-09-21,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000284,2025-08-04,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000285,2025-12-23,2,premium,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000286,2025-08-04,1,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000287,2025-11-18,1,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000288,2025-11-30,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000289,2025-08-24,1,premium,web,6.0,1.0,2026-01-07 03:30:21,2026-01-07 03:30:21,11841.93,False,High
+U000290,2025-10-07,1,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U000291,2025-08-09,1,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000292,2025-09-11,1,value,mobile,7.0,1.0,2026-01-04 22:08:23,2026-01-04 22:08:23,17094.8,False,High
+U000293,2026-01-12,3,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000294,2025-11-15,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000295,2025-12-18,3,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U000296,2025-10-14,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000297,2025-08-12,2,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000298,2025-11-20,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000299,2025-10-06,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000300,2025-07-30,3,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000301,2025-09-18,3,value,web,5.0,1.0,2025-12-07 08:05:12,2025-12-07 08:05:12,11005.11,False,High
+U000302,2025-11-03,3,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000303,2025-11-24,1,premium,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000304,2025-08-13,1,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000305,2025-12-24,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000306,2025-09-11,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000307,2025-08-19,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000308,2025-08-03,2,value,web,7.0,1.0,2026-01-07 02:13:21,2026-01-07 02:13:21,9813.08,False,High
+U000309,2025-12-09,2,regular,web,4.0,1.0,2025-12-24 08:10:01,2025-12-24 08:10:01,11822.71,False,High
+U000310,2025-09-05,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000311,2025-10-02,3,premium,mobile,5.0,1.0,2025-11-19 05:11:16,2025-11-19 05:11:16,3238.92,False,High
+U000312,2025-08-09,1,premium,web,4.0,0.0,,,0.0,False,No Purchase
+U000313,2025-11-14,1,regular,mobile,3.0,1.0,2025-12-25 10:38:54,2025-12-25 10:38:54,5173.74,False,High
+U000314,2025-12-04,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000315,2025-09-02,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000316,2026-01-07,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000317,2025-06-29,2,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000318,2025-07-21,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000319,2025-10-25,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000320,2025-11-17,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000321,2025-08-15,2,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000322,2025-10-17,2,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000323,2025-08-29,2,value,web,1.0,0.0,,,0.0,False,No Purchase
+U000324,2025-10-17,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000325,2025-11-08,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000326,2026-01-13,2,value,mobile,4.0,1.0,2025-12-25 04:16:08,2025-12-25 04:16:08,11084.73,False,High
+U000327,2025-09-27,1,premium,web,0.0,0.0,,,0.0,False,No Purchase
+U000328,2025-11-06,1,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U000329,2025-10-22,1,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000330,2025-08-29,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000331,2025-08-15,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000332,2026-01-16,1,value,web,1.0,0.0,,,0.0,False,No Purchase
+U000333,2025-08-05,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000334,2025-12-06,2,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000335,2025-07-24,2,premium,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000336,2025-12-09,3,premium,web,3.0,2.0,2025-10-27 07:54:50,2025-12-05 01:04:40,15357.88,True,High
+U000337,2025-08-01,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000338,2026-01-12,1,regular,web,5.0,2.0,2026-01-11 02:24:45,2026-01-14 15:59:58,27446.84,True,High
+U000339,2025-11-14,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000340,2025-07-12,1,premium,web,3.0,0.0,,,0.0,False,No Purchase
+U000341,2025-11-16,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000342,2025-10-28,1,value,web,1.0,0.0,,,0.0,False,No Purchase
+U000343,2025-09-02,1,regular,mobile,6.0,0.0,,,0.0,False,No Purchase
+U000344,2025-08-17,1,value,web,1.0,0.0,,,0.0,False,No Purchase
+U000345,2025-11-21,2,value,mobile,6.0,0.0,,,0.0,False,No Purchase
+U000346,2025-11-26,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000347,2025-08-31,1,regular,mobile,7.0,2.0,2025-11-09 03:24:22,2025-12-22 18:25:53,20327.87,True,High
+U000348,2025-12-24,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000349,2025-08-18,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000350,2025-07-08,2,value,mobile,7.0,0.0,,,0.0,False,No Purchase
+U000351,2025-10-27,1,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000352,2025-07-15,2,premium,mobile,7.0,0.0,,,0.0,False,No Purchase
+U000353,2025-08-20,2,value,web,7.0,0.0,,,0.0,False,No Purchase
+U000354,2025-10-07,2,regular,mobile,4.0,1.0,2025-12-09 02:18:59,2025-12-09 02:18:59,2042.78,False,High
+U000355,2025-08-22,1,regular,web,5.0,1.0,2026-01-07 06:14:07,2026-01-07 06:14:07,4579.91,False,High
+U000356,2025-08-07,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000357,2025-11-18,3,regular,web,7.0,0.0,,,0.0,False,No Purchase
+U000358,2025-10-16,1,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000359,2025-12-16,1,regular,web,7.0,1.0,2026-01-02 22:37:05,2026-01-02 22:37:05,7760.97,False,High
+U000360,2025-10-23,1,value,mobile,4.0,1.0,2025-11-03 11:31:11,2025-11-03 11:31:11,1629.03,False,High
+U000361,2025-10-02,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000362,2025-08-17,1,premium,web,6.0,0.0,,,0.0,False,No Purchase
+U000363,2025-12-06,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000364,2025-08-03,3,premium,mobile,6.0,0.0,,,0.0,False,No Purchase
+U000365,2025-08-13,3,premium,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000366,2025-12-17,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000367,2025-11-26,3,regular,mobile,6.0,2.0,2025-12-03 08:43:38,2025-12-09 03:07:09,16946.18,True,High
+U000368,2025-10-30,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000369,2025-07-01,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000370,2025-07-20,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000371,2025-10-06,3,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000372,2025-11-27,2,regular,web,2.0,1.0,2025-11-09 01:18:34,2025-11-09 01:18:34,4586.48,False,High
+U000373,2025-09-28,3,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000374,2025-06-27,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000375,2025-08-01,3,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000376,2025-10-25,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000377,2025-11-16,2,premium,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000378,2025-06-30,3,regular,mobile,8.0,1.0,2026-01-01 12:18:31,2026-01-01 12:18:31,8883.0,False,High
+U000379,2025-07-02,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000380,2025-08-17,2,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U000381,2025-07-10,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000382,2025-10-15,1,regular,web,8.0,2.0,2026-01-02 01:05:28,2026-01-03 14:18:21,5511.04,True,High
+U000383,2025-07-19,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000384,2025-11-06,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000385,2025-12-03,1,premium,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000386,2026-01-13,3,premium,mobile,6.0,0.0,,,0.0,False,No Purchase
+U000387,2026-01-08,2,regular,web,5.0,1.0,2025-12-02 00:21:48,2025-12-02 00:21:48,4355.33,False,High
+U000388,2025-08-19,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000389,2025-06-29,2,regular,web,5.0,1.0,2026-01-04 01:46:05,2026-01-04 01:46:05,2777.81,False,High
+U000390,2025-08-31,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000391,2025-11-19,2,regular,mobile,4.0,1.0,2025-12-05 11:09:40,2025-12-05 11:09:40,15581.28,False,High
+U000392,2025-07-05,3,regular,web,4.0,1.0,2025-10-25 15:12:32,2025-10-25 15:12:32,9440.12,False,High
+U000393,2025-09-06,3,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000394,2025-08-25,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U000395,2025-08-08,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000396,2025-11-18,2,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000397,2025-11-08,2,regular,mobile,6.0,0.0,,,0.0,False,No Purchase
+U000398,2025-10-13,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000399,2025-12-31,2,value,web,1.0,0.0,,,0.0,False,No Purchase
+U000400,2025-07-15,2,premium,web,3.0,1.0,2025-11-23 08:48:00,2025-11-23 08:48:00,12868.98,False,High
+U000401,2025-07-24,2,regular,mobile,0.0,0.0,,,0.0,False,No Purchase
+U000402,2025-09-11,2,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000403,2025-11-08,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000404,2025-10-24,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000405,2025-07-08,1,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000406,2026-01-10,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000407,2025-08-26,2,premium,web,1.0,1.0,2025-12-07 09:44:15,2025-12-07 09:44:15,1777.1,False,High
+U000408,2025-09-06,1,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000409,2025-11-01,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000410,2026-01-07,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000411,2025-11-09,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000412,2026-01-09,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000413,2025-08-01,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000414,2025-10-31,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000415,2025-12-14,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000416,2025-10-08,1,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U000417,2025-09-07,3,value,mobile,7.0,2.0,2025-12-04 08:06:09,2026-01-18 23:48:08,12497.19,True,High
+U000418,2026-01-16,2,premium,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000419,2025-07-23,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000420,2025-09-17,2,premium,mobile,3.0,1.0,2025-11-13 15:04:21,2025-11-13 15:04:21,1450.06,False,High
+U000421,2025-12-23,1,premium,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000422,2025-12-29,1,premium,web,1.0,0.0,,,0.0,False,No Purchase
+U000423,2026-01-15,2,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U000424,2025-12-26,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000425,2025-07-04,1,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000426,2026-01-04,3,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000427,2025-09-21,3,regular,web,6.0,1.0,2026-01-18 01:31:12,2026-01-18 01:31:12,5571.23,False,High
+U000428,2025-11-07,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000429,2025-09-14,2,premium,web,1.0,0.0,,,0.0,False,No Purchase
+U000430,2025-12-11,1,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000431,2025-10-22,3,regular,mobile,2.0,1.0,2026-01-03 12:08:29,2026-01-03 12:08:29,562.97,False,High
+U000432,2025-12-18,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000433,2025-08-03,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000434,2025-08-01,2,value,mobile,6.0,0.0,,,0.0,False,No Purchase
+U000435,2025-09-23,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000436,2025-06-24,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000437,2025-11-15,1,regular,web,4.0,1.0,2025-10-30 06:59:19,2025-10-30 06:59:19,2006.3,False,High
+U000438,2025-08-24,3,value,web,6.0,1.0,2025-11-06 09:48:24,2025-11-06 09:48:24,1576.89,False,High
+U000439,2025-10-18,2,value,mobile,3.0,1.0,2025-11-12 21:34:32,2025-11-12 21:34:32,5887.1,False,High
+U000440,2025-07-08,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000441,2025-07-29,3,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000442,2025-11-01,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000443,2025-08-26,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000444,2025-08-07,1,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000445,2025-08-10,2,regular,mobile,6.0,1.0,2025-11-26 00:44:01,2025-11-26 00:44:01,3041.84,False,High
+U000446,2025-08-07,3,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000447,2025-11-01,2,value,web,1.0,1.0,2025-10-31 10:25:00,2025-10-31 10:25:00,8204.92,False,High
+U000448,2025-07-28,1,premium,mobile,7.0,1.0,2025-12-14 17:58:13,2025-12-14 17:58:13,1660.31,False,High
+U000449,2025-09-07,3,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000450,2025-11-14,2,premium,mobile,6.0,1.0,2025-11-09 18:11:00,2025-11-09 18:11:00,13453.45,False,High
+U000451,2025-10-09,2,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000452,2025-10-26,3,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000453,2025-08-15,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U000454,2026-01-05,2,regular,web,2.0,1.0,2025-12-20 05:20:30,2025-12-20 05:20:30,3361.0,False,High
+U000455,2025-09-18,2,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000456,2025-08-22,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000457,2025-12-30,1,premium,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000458,2025-11-08,3,premium,web,1.0,0.0,,,0.0,False,No Purchase
+U000459,2025-10-30,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000460,2025-12-26,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000461,2025-07-05,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000462,2025-12-16,3,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000463,2025-11-12,1,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000464,2025-09-07,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000465,2025-08-16,2,premium,web,3.0,0.0,,,0.0,False,No Purchase
+U000466,2025-07-15,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000467,2026-01-07,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000468,2025-07-23,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U000469,2025-08-16,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000470,2025-11-15,2,premium,mobile,4.0,1.0,2025-12-14 21:08:44,2025-12-14 21:08:44,4625.62,False,High
+U000471,2025-11-19,1,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000472,2025-07-27,2,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U000473,2025-12-11,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000474,2025-10-08,1,premium,web,4.0,0.0,,,0.0,False,No Purchase
+U000475,2025-12-18,1,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000476,2025-07-11,1,regular,web,5.0,2.0,2025-10-26 14:28:57,2025-11-20 23:41:53,13775.71,True,High
+U000477,2025-07-02,2,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000478,2025-11-04,1,regular,mobile,3.0,1.0,2025-12-04 00:18:37,2025-12-04 00:18:37,6767.06,False,High
+U000479,2025-07-24,3,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000480,2025-10-11,2,value,web,1.0,1.0,2025-10-24 16:31:21,2025-10-24 16:31:21,7908.64,False,High
+U000481,2025-06-26,3,regular,web,5.0,2.0,2025-11-16 14:30:54,2026-01-05 22:31:20,15462.55,True,High
+U000482,2025-12-04,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000483,2025-12-29,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000484,2025-12-16,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000485,2026-01-10,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000486,2025-12-30,2,regular,mobile,5.0,2.0,2025-11-18 20:49:30,2025-12-15 13:59:08,25130.03,True,High
+U000487,2025-09-24,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000488,2025-09-15,2,regular,mobile,3.0,1.0,2025-10-31 04:40:06,2025-10-31 04:40:06,13319.73,False,High
+U000489,2025-12-28,1,regular,mobile,6.0,0.0,,,0.0,False,No Purchase
+U000490,2026-01-04,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000491,2026-01-13,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000492,2025-12-01,3,premium,web,3.0,0.0,,,0.0,False,No Purchase
+U000493,2025-08-04,1,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000494,2026-01-07,3,regular,mobile,6.0,2.0,2025-10-23 15:58:25,2026-01-17 09:39:46,24375.010000000002,True,High
+U000495,2026-01-08,2,regular,mobile,6.0,1.0,2025-12-21 21:54:50,2025-12-21 21:54:50,3393.75,False,High
+U000496,2025-11-10,3,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000497,2025-12-20,1,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000498,2025-10-19,3,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000499,2026-01-07,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000500,2025-07-13,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000501,2025-12-21,1,value,web,0.0,0.0,,,0.0,False,No Purchase
+U000502,2025-07-05,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000503,2025-09-02,1,premium,mobile,2.0,1.0,2025-11-15 02:45:30,2025-11-15 02:45:30,4117.98,False,High
+U000504,2025-07-21,2,premium,web,4.0,0.0,,,0.0,False,No Purchase
+U000505,2025-10-02,3,premium,mobile,9.0,2.0,2025-11-26 05:37:11,2026-01-14 10:29:53,18852.550000000003,True,High
+U000506,2025-08-11,2,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000507,2026-01-09,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000508,2025-10-18,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000509,2025-12-28,1,value,mobile,6.0,2.0,2025-11-29 19:38:48,2025-12-19 17:10:32,16496.53,True,High
+U000510,2025-08-20,3,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000511,2025-06-28,2,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000512,2025-12-03,1,premium,web,4.0,1.0,2025-10-28 13:27:43,2025-10-28 13:27:43,12682.2,False,High
+U000513,2025-11-17,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000514,2025-10-15,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000515,2025-12-11,1,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000516,2025-12-16,3,value,web,1.0,0.0,,,0.0,False,No Purchase
+U000517,2025-10-24,3,value,mobile,0.0,0.0,,,0.0,False,No Purchase
+U000518,2026-01-12,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000519,2025-11-21,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000520,2025-11-12,3,regular,mobile,2.0,1.0,2026-01-05 17:46:30,2026-01-05 17:46:30,9288.45,False,High
+U000521,2025-09-07,3,premium,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000522,2025-06-23,1,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000523,2025-08-13,3,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000524,2025-11-30,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000525,2025-11-19,2,value,web,3.0,1.0,2025-11-19 21:16:20,2025-11-19 21:16:20,11722.81,False,High
+U000526,2025-08-31,3,value,web,7.0,0.0,,,0.0,False,No Purchase
+U000527,2025-11-01,3,premium,web,3.0,0.0,,,0.0,False,No Purchase
+U000528,2025-08-03,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000529,2025-08-17,2,value,mobile,5.0,1.0,2025-12-06 13:45:27,2025-12-06 13:45:27,1815.18,False,High
+U000530,2026-01-08,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000531,2025-09-18,2,regular,web,6.0,1.0,2025-11-18 21:41:08,2025-11-18 21:41:08,2195.94,False,High
+U000532,2025-08-13,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000533,2025-10-03,2,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U000534,2025-09-12,1,premium,mobile,4.0,1.0,2025-12-28 23:43:37,2025-12-28 23:43:37,9025.94,False,High
+U000535,2025-11-23,1,regular,web,8.0,1.0,2025-12-26 13:43:48,2025-12-26 13:43:48,6736.02,False,High
+U000536,2026-01-11,3,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000537,2025-10-25,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000538,2025-10-25,3,value,mobile,7.0,1.0,2025-11-06 14:00:22,2025-11-06 14:00:22,10701.49,False,High
+U000539,2025-09-08,2,premium,web,4.0,0.0,,,0.0,False,No Purchase
+U000540,2025-10-20,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000541,2025-08-29,1,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000542,2025-06-23,1,regular,web,7.0,0.0,,,0.0,False,No Purchase
+U000543,2025-12-22,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000544,2025-09-21,1,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000545,2025-10-04,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000546,2025-07-10,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000547,2025-12-16,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000548,2025-07-29,1,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000549,2025-09-17,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000550,2025-12-16,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000551,2025-09-27,1,value,mobile,5.0,1.0,2025-11-12 02:05:56,2025-11-12 02:05:56,2601.71,False,High
+U000552,2026-01-04,1,value,web,2.0,1.0,2025-12-06 03:15:08,2025-12-06 03:15:08,9122.18,False,High
+U000553,2025-08-06,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000554,2025-11-20,3,regular,mobile,10.0,2.0,2025-10-24 12:16:17,2025-11-24 00:55:35,5147.02,True,High
+U000555,2026-01-14,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000556,2025-10-16,2,value,web,1.0,0.0,,,0.0,False,No Purchase
+U000557,2025-11-15,1,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000558,2025-09-14,3,value,mobile,6.0,0.0,,,0.0,False,No Purchase
+U000559,2025-11-28,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000560,2025-12-31,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000561,2025-11-18,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000562,2026-01-05,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000563,2025-10-25,1,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000564,2025-10-22,1,value,mobile,6.0,1.0,2025-10-28 12:19:40,2025-10-28 12:19:40,2076.32,False,High
+U000565,2025-08-26,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000566,2025-11-19,3,premium,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000567,2025-12-25,2,value,web,0.0,0.0,,,0.0,False,No Purchase
+U000568,2025-11-06,3,value,mobile,3.0,2.0,2025-10-27 11:23:51,2026-01-07 00:00:46,68252.19,True,High
+U000569,2025-08-11,2,premium,web,3.0,0.0,,,0.0,False,No Purchase
+U000570,2025-10-15,1,premium,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000571,2025-11-29,2,regular,mobile,6.0,0.0,,,0.0,False,No Purchase
+U000572,2026-01-06,2,value,mobile,4.0,1.0,2025-11-06 19:22:07,2025-11-06 19:22:07,10418.93,False,High
+U000573,2025-07-26,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000574,2025-07-20,2,value,mobile,3.0,1.0,2025-10-25 11:05:02,2025-10-25 11:05:02,9084.09,False,High
+U000575,2025-09-18,1,value,mobile,3.0,1.0,2025-12-09 04:07:46,2025-12-09 04:07:46,2760.83,False,High
+U000576,2025-07-19,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000577,2026-01-15,1,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000578,2025-09-20,3,regular,mobile,4.0,1.0,2025-11-06 10:20:12,2025-11-06 10:20:12,3237.93,False,High
+U000579,2025-10-13,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000580,2025-08-10,1,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000581,2025-09-25,2,value,web,6.0,1.0,2025-11-11 09:04:19,2025-11-11 09:04:19,1327.24,False,High
+U000582,2026-01-16,2,regular,web,6.0,0.0,,,0.0,False,No Purchase
+U000583,2025-10-04,2,premium,web,4.0,0.0,,,0.0,False,No Purchase
+U000584,2025-06-25,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000585,2025-08-13,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000586,2026-01-14,2,value,mobile,6.0,1.0,2025-11-09 18:56:12,2025-11-09 18:56:12,1964.56,False,High
+U000587,2026-01-17,2,value,web,8.0,0.0,,,0.0,False,No Purchase
+U000588,2025-08-06,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000589,2025-10-30,1,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000590,2025-07-09,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000591,2025-10-22,1,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000592,2025-07-19,2,value,web,7.0,0.0,,,0.0,False,No Purchase
+U000593,2025-12-12,1,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000594,2026-01-06,3,value,web,6.0,0.0,,,0.0,False,No Purchase
+U000595,2025-07-29,2,premium,web,7.0,0.0,,,0.0,False,No Purchase
+U000596,2025-09-28,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000597,2025-07-14,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000598,2025-09-02,1,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000599,2025-07-07,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000600,2025-08-17,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000601,2026-01-17,3,regular,mobile,5.0,2.0,2025-10-26 20:08:08,2025-12-12 21:02:03,14701.419999999998,True,High
+U000602,2025-07-02,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000603,2025-12-20,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000604,2025-07-09,3,value,web,1.0,0.0,,,0.0,False,No Purchase
+U000605,2025-10-12,2,value,mobile,7.0,0.0,,,0.0,False,No Purchase
+U000606,2025-09-26,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000607,2026-01-05,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000608,2025-08-04,2,premium,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000609,2025-07-31,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000610,2025-11-27,2,regular,web,5.0,2.0,2025-11-09 05:26:36,2025-12-08 14:49:35,33470.09,True,High
+U000611,2025-11-22,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000612,2025-11-17,3,value,web,4.0,1.0,2026-01-11 08:27:09,2026-01-11 08:27:09,12571.42,False,High
+U000613,2025-06-28,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000614,2025-08-17,3,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000615,2025-12-16,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000616,2025-10-27,1,regular,web,2.0,1.0,2025-10-23 11:51:32,2025-10-23 11:51:32,10674.12,False,High
+U000617,2025-10-27,3,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U000618,2025-08-24,1,premium,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000619,2025-08-17,1,regular,web,7.0,0.0,,,0.0,False,No Purchase
+U000620,2026-01-08,2,premium,web,4.0,0.0,,,0.0,False,No Purchase
+U000621,2025-11-23,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000622,2025-07-20,3,premium,web,4.0,1.0,2026-01-18 12:58:28,2026-01-18 12:58:28,8257.66,False,High
+U000623,2026-01-06,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000624,2025-10-23,1,regular,mobile,5.0,1.0,2025-12-16 09:54:59,2025-12-16 09:54:59,1680.9,False,High
+U000625,2025-09-01,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000626,2025-09-14,1,premium,mobile,3.0,1.0,2026-01-05 15:50:41,2026-01-05 15:50:41,16261.45,False,High
+U000627,2025-11-22,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000628,2025-09-10,2,regular,web,4.0,1.0,2025-12-30 06:47:13,2025-12-30 06:47:13,5895.8,False,High
+U000629,2025-10-22,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U000630,2025-11-19,3,premium,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000631,2025-08-03,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000632,2026-01-07,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000633,2025-09-06,1,regular,web,2.0,1.0,2025-12-24 14:12:37,2025-12-24 14:12:37,6251.26,False,High
+U000634,2025-09-19,2,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000635,2025-11-17,2,value,mobile,2.0,1.0,2025-12-28 12:21:01,2025-12-28 12:21:01,14998.36,False,High
+U000636,2025-10-29,1,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000637,2025-09-23,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000638,2025-11-06,2,premium,mobile,5.0,2.0,2025-12-30 08:25:23,2026-01-19 01:14:32,22894.760000000002,True,High
+U000639,2025-12-30,1,premium,web,7.0,0.0,,,0.0,False,No Purchase
+U000640,2025-12-08,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000641,2025-12-13,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000642,2025-08-16,1,value,web,1.0,1.0,2025-12-30 08:18:32,2025-12-30 08:18:32,4356.86,False,High
+U000643,2025-09-19,2,premium,mobile,0.0,0.0,,,0.0,False,No Purchase
+U000644,2025-10-17,3,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000645,2025-07-02,3,regular,web,7.0,0.0,,,0.0,False,No Purchase
+U000646,2025-12-02,3,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000647,2025-08-30,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000648,2025-08-21,3,value,mobile,2.0,1.0,2025-10-21 20:05:05,2025-10-21 20:05:05,4768.5,False,High
+U000649,2025-08-16,1,value,mobile,6.0,1.0,2025-12-25 01:29:35,2025-12-25 01:29:35,2313.82,False,High
+U000650,2025-08-21,2,premium,web,3.0,0.0,,,0.0,False,No Purchase
+U000651,2025-09-02,1,regular,mobile,6.0,0.0,,,0.0,False,No Purchase
+U000652,2025-10-28,2,value,web,8.0,1.0,2026-01-11 04:42:13,2026-01-11 04:42:13,14385.61,False,High
+U000653,2025-10-23,2,regular,web,4.0,1.0,2025-11-13 23:23:15,2025-11-13 23:23:15,8296.52,False,High
+U000654,2025-08-16,1,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000655,2025-08-05,3,premium,mobile,3.0,1.0,2025-11-25 09:47:29,2025-11-25 09:47:29,10379.08,False,High
+U000656,2025-12-13,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000657,2025-07-12,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000658,2025-10-09,1,value,web,0.0,0.0,,,0.0,False,No Purchase
+U000659,2025-10-10,2,regular,web,6.0,1.0,2025-11-21 12:16:17,2025-11-21 12:16:17,6357.77,False,High
+U000660,2025-10-22,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000661,2025-12-26,2,regular,web,7.0,1.0,2025-12-18 05:15:03,2025-12-18 05:15:03,16795.41,False,High
+U000662,2025-11-01,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000663,2026-01-13,3,value,mobile,9.0,1.0,2025-11-22 06:41:29,2025-11-22 06:41:29,8762.86,False,High
+U000664,2025-12-23,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000665,2025-08-07,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000666,2025-08-13,2,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000667,2025-09-03,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000668,2025-09-13,3,premium,web,8.0,0.0,,,0.0,False,No Purchase
+U000669,2025-10-17,2,value,web,0.0,0.0,,,0.0,False,No Purchase
+U000670,2025-08-11,3,value,web,4.0,2.0,2025-11-11 21:48:04,2025-12-19 03:20:38,7177.89,True,High
+U000671,2025-08-09,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000672,2025-09-11,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000673,2025-11-11,2,regular,web,4.0,1.0,2025-11-29 18:50:42,2025-11-29 18:50:42,5195.92,False,High
+U000674,2025-11-14,1,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000675,2026-01-14,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000676,2025-08-04,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000677,2025-09-13,2,regular,mobile,0.0,0.0,,,0.0,False,No Purchase
+U000678,2026-01-12,2,premium,web,4.0,0.0,,,0.0,False,No Purchase
+U000679,2025-11-15,2,premium,web,1.0,0.0,,,0.0,False,No Purchase
+U000680,2025-10-25,2,regular,web,5.0,1.0,2026-01-10 14:53:30,2026-01-10 14:53:30,7590.09,False,High
+U000681,2025-10-14,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000682,2025-07-09,1,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000683,2025-12-28,1,regular,web,4.0,1.0,2025-10-24 03:21:55,2025-10-24 03:21:55,5589.41,False,High
+U000684,2025-11-01,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000685,2025-10-21,3,value,web,3.0,1.0,2025-11-24 22:42:15,2025-11-24 22:42:15,3780.77,False,High
+U000686,2025-10-14,3,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U000687,2025-09-13,3,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000688,2025-08-15,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000689,2025-11-29,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000690,2025-10-08,2,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000691,2025-06-30,2,value,web,5.0,1.0,2025-12-28 18:50:26,2025-12-28 18:50:26,2759.32,False,High
+U000692,2025-09-15,2,regular,mobile,2.0,1.0,2025-11-14 02:49:19,2025-11-14 02:49:19,2811.75,False,High
+U000693,2026-01-04,3,premium,web,3.0,0.0,,,0.0,False,No Purchase
+U000694,2025-09-09,2,premium,web,1.0,0.0,,,0.0,False,No Purchase
+U000695,2025-09-18,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000696,2025-11-01,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000697,2025-12-08,1,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000698,2025-11-10,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000699,2025-12-18,1,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000700,2025-07-17,3,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000701,2026-01-03,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000702,2025-12-30,3,regular,mobile,0.0,0.0,,,0.0,False,No Purchase
+U000703,2025-10-10,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000704,2025-11-01,1,regular,mobile,2.0,1.0,2025-11-04 06:59:40,2025-11-04 06:59:40,3417.09,False,High
+U000705,2025-08-07,1,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000706,2025-09-25,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000707,2025-08-05,2,value,mobile,8.0,0.0,,,0.0,False,No Purchase
+U000708,2025-06-28,3,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000709,2026-01-15,1,value,web,8.0,0.0,,,0.0,False,No Purchase
+U000710,2025-08-16,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000711,2025-10-25,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000712,2025-08-25,1,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000713,2025-09-09,2,value,web,5.0,2.0,2025-12-17 04:51:03,2025-12-17 04:51:23,25597.75,True,High
+U000714,2025-09-14,3,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000715,2025-09-01,2,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000716,2025-11-04,2,premium,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000717,2026-01-11,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000718,2025-09-21,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000719,2026-01-13,3,value,mobile,2.0,1.0,2025-12-11 08:00:07,2025-12-11 08:00:07,2590.49,False,High
+U000720,2025-11-10,3,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U000721,2025-10-28,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000722,2025-08-12,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000723,2025-07-06,1,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000724,2025-12-19,1,regular,web,4.0,1.0,2026-01-11 04:06:52,2026-01-11 04:06:52,1213.31,False,High
+U000725,2025-10-21,2,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000726,2025-09-18,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000727,2025-12-10,1,regular,mobile,6.0,1.0,2025-10-25 16:06:22,2025-10-25 16:06:22,5663.5,False,High
+U000728,2025-08-27,1,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000729,2025-12-05,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000730,2025-08-31,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000731,2026-01-02,1,value,mobile,1.0,1.0,2025-11-28 14:04:43,2025-11-28 14:04:43,12339.29,False,High
+U000732,2025-08-18,2,regular,mobile,4.0,1.0,2025-11-10 03:30:57,2025-11-10 03:30:57,8216.83,False,High
+U000733,2025-07-22,3,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000734,2025-11-17,2,value,web,0.0,0.0,,,0.0,False,No Purchase
+U000735,2025-07-27,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000736,2026-01-08,1,premium,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000737,2025-11-08,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000738,2025-08-10,2,regular,web,4.0,2.0,2025-11-21 06:25:05,2025-12-08 19:10:16,19818.39,True,High
+U000739,2025-08-06,3,regular,web,6.0,1.0,2026-01-12 14:51:51,2026-01-12 14:51:51,4095.09,False,High
+U000740,2026-01-03,2,regular,web,4.0,1.0,2025-12-06 02:22:14,2025-12-06 02:22:14,1885.61,False,High
+U000741,2025-10-29,2,regular,web,5.0,1.0,2025-11-28 21:40:15,2025-11-28 21:40:15,14919.19,False,High
+U000742,2025-12-28,3,value,mobile,4.0,1.0,2025-11-12 20:34:27,2025-11-12 20:34:27,7089.88,False,High
+U000743,2025-07-16,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000744,2026-01-03,2,regular,mobile,8.0,0.0,,,0.0,False,No Purchase
+U000745,2025-10-10,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000746,2025-11-10,1,regular,web,6.0,1.0,2025-12-15 22:29:17,2025-12-15 22:29:17,7289.84,False,High
+U000747,2025-09-09,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000748,2025-07-05,3,regular,web,5.0,1.0,2025-12-23 20:56:50,2025-12-23 20:56:50,7695.28,False,High
+U000749,2026-01-10,1,regular,web,3.0,1.0,2025-11-12 10:51:02,2025-11-12 10:51:02,7249.5,False,High
+U000750,2026-01-18,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000751,2025-09-07,1,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000752,2026-01-07,1,premium,web,4.0,0.0,,,0.0,False,No Purchase
+U000753,2025-07-28,2,regular,web,5.0,1.0,2025-12-31 21:33:52,2025-12-31 21:33:52,7070.31,False,High
+U000754,2025-07-25,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000755,2025-07-08,3,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000756,2025-09-13,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000757,2025-07-04,3,value,web,1.0,0.0,,,0.0,False,No Purchase
+U000758,2025-09-14,2,regular,web,4.0,1.0,2025-11-04 14:19:05,2025-11-04 14:19:05,7839.78,False,High
+U000759,2025-07-22,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000760,2025-11-23,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000761,2025-12-15,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000762,2025-11-14,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000763,2025-08-04,2,value,web,6.0,0.0,,,0.0,False,No Purchase
+U000764,2025-12-01,1,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000765,2025-08-14,3,regular,mobile,2.0,1.0,2025-12-22 04:54:50,2025-12-22 04:54:50,10667.23,False,High
+U000766,2025-11-29,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000767,2025-10-20,1,value,mobile,5.0,1.0,2025-11-16 07:36:48,2025-11-16 07:36:48,6437.47,False,High
+U000768,2025-09-08,1,regular,mobile,3.0,1.0,2025-10-25 19:35:25,2025-10-25 19:35:25,6281.05,False,High
+U000769,2025-07-10,2,value,web,1.0,0.0,,,0.0,False,No Purchase
+U000770,2025-12-14,3,regular,web,4.0,1.0,2025-12-10 04:11:58,2025-12-10 04:11:58,3618.85,False,High
+U000771,2026-01-06,1,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000772,2025-11-10,3,premium,web,3.0,0.0,,,0.0,False,No Purchase
+U000773,2026-01-11,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000774,2026-01-05,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000775,2025-08-03,1,value,web,6.0,1.0,2025-12-20 18:54:53,2025-12-20 18:54:53,7736.67,False,High
+U000776,2025-11-23,1,regular,web,3.0,1.0,2025-12-08 01:20:48,2025-12-08 01:20:48,6307.16,False,High
+U000777,2025-09-04,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000778,2025-10-03,2,regular,mobile,7.0,0.0,,,0.0,False,No Purchase
+U000779,2025-07-26,2,value,web,0.0,0.0,,,0.0,False,No Purchase
+U000780,2026-01-14,3,value,web,5.0,1.0,2026-01-07 19:11:51,2026-01-07 19:11:51,7488.56,False,High
+U000781,2025-11-22,1,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000782,2025-08-18,3,premium,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000783,2025-09-09,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000784,2025-09-20,3,value,mobile,8.0,1.0,2025-12-19 01:21:03,2025-12-19 01:21:03,8092.77,False,High
+U000785,2025-11-27,2,premium,web,4.0,0.0,,,0.0,False,No Purchase
+U000786,2026-01-03,3,value,web,4.0,1.0,2025-12-23 21:36:09,2025-12-23 21:36:09,5688.28,False,High
+U000787,2025-08-29,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000788,2025-09-30,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000789,2025-10-26,3,premium,web,4.0,1.0,2026-01-15 19:01:18,2026-01-15 19:01:18,1033.15,False,High
+U000790,2025-09-14,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000791,2025-10-07,2,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U000792,2025-07-15,1,premium,web,3.0,0.0,,,0.0,False,No Purchase
+U000793,2025-07-28,1,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000794,2025-09-15,2,premium,web,7.0,1.0,2026-01-07 05:42:11,2026-01-07 05:42:11,4474.05,False,High
+U000795,2026-01-01,2,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U000796,2025-09-04,2,premium,web,7.0,1.0,2026-01-17 00:42:13,2026-01-17 00:42:13,3255.34,False,High
+U000797,2025-08-14,2,value,mobile,6.0,2.0,2025-11-22 21:36:59,2025-12-23 01:14:43,20616.260000000002,True,High
+U000798,2025-11-26,3,value,web,3.0,3.0,2025-11-01 18:44:02,2025-12-12 15:53:11,14520.599999999999,True,High
+U000799,2026-01-08,3,regular,web,5.0,1.0,2025-10-29 10:11:41,2025-10-29 10:11:41,13352.15,False,High
+U000800,2025-09-27,1,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000801,2025-06-25,3,regular,mobile,3.0,1.0,2025-10-31 06:49:16,2025-10-31 06:49:16,3028.3,False,High
+U000802,2025-11-14,2,premium,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000803,2025-09-18,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000804,2025-11-11,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000805,2025-08-20,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000806,2025-06-23,3,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000807,2025-09-03,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000808,2025-11-18,3,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000809,2025-09-13,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000810,2025-08-08,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000811,2025-09-28,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000812,2025-11-28,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000813,2025-07-18,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000814,2025-11-15,1,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000815,2025-11-10,2,premium,web,1.0,0.0,,,0.0,False,No Purchase
+U000816,2025-09-09,3,regular,web,4.0,2.0,2025-12-09 17:08:41,2026-01-14 22:12:19,15354.4,True,High
+U000817,2026-01-13,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000818,2025-12-28,3,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000819,2025-08-28,2,regular,web,8.0,0.0,,,0.0,False,No Purchase
+U000820,2025-06-29,3,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U000821,2025-08-27,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000822,2025-08-05,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000823,2025-10-16,3,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000824,2026-01-02,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U000825,2025-12-23,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000826,2025-08-26,2,regular,mobile,4.0,1.0,2025-11-14 07:49:52,2025-11-14 07:49:52,5210.64,False,High
+U000827,2025-09-21,3,regular,web,6.0,0.0,,,0.0,False,No Purchase
+U000828,2025-07-01,1,value,web,5.0,1.0,2025-10-30 08:45:06,2025-10-30 08:45:06,4552.05,False,High
+U000829,2025-10-15,1,premium,web,1.0,0.0,,,0.0,False,No Purchase
+U000830,2025-07-06,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000831,2026-01-06,2,premium,web,2.0,1.0,2025-12-14 02:07:59,2025-12-14 02:07:59,8200.0,False,High
+U000832,2025-12-22,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000833,2025-08-07,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000834,2025-11-17,2,regular,web,6.0,0.0,,,0.0,False,No Purchase
+U000835,2025-10-20,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000836,2025-12-08,1,value,web,1.0,0.0,,,0.0,False,No Purchase
+U000837,2025-10-01,2,premium,web,4.0,0.0,,,0.0,False,No Purchase
+U000838,2025-08-02,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000839,2025-11-04,1,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000840,2025-07-10,3,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000841,2025-10-24,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000842,2025-08-07,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000843,2025-11-14,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000844,2025-12-14,3,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000845,2025-07-16,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000846,2025-09-15,2,regular,web,3.0,1.0,2025-12-04 04:42:27,2025-12-04 04:42:27,2562.23,False,High
+U000847,2025-11-24,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000848,2025-07-27,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000849,2025-10-20,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000850,2025-11-11,1,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000851,2025-09-05,3,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000852,2025-12-15,3,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000853,2025-10-08,2,premium,mobile,2.0,1.0,2025-11-27 11:31:37,2025-11-27 11:31:37,4722.98,False,High
+U000854,2025-11-02,3,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000855,2025-07-23,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000856,2025-06-28,2,premium,mobile,3.0,1.0,2025-10-24 16:50:38,2025-10-24 16:50:38,8599.84,False,High
+U000857,2025-07-04,2,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000858,2025-12-30,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000859,2025-12-25,1,premium,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000860,2025-12-10,3,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U000861,2025-08-04,3,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000862,2025-10-11,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000863,2025-12-07,2,regular,web,6.0,0.0,,,0.0,False,No Purchase
+U000864,2025-11-12,1,premium,web,4.0,0.0,,,0.0,False,No Purchase
+U000865,2025-07-17,3,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U000866,2025-12-28,3,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000867,2025-07-27,3,regular,mobile,7.0,0.0,,,0.0,False,No Purchase
+U000868,2025-07-29,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000869,2025-12-29,1,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000870,2025-10-03,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000871,2025-09-09,1,value,mobile,3.0,1.0,2025-12-30 09:41:32,2025-12-30 09:41:32,1902.33,False,High
+U000872,2025-10-17,1,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000873,2026-01-15,1,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000874,2025-07-18,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000875,2025-11-29,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000876,2025-09-01,1,regular,web,4.0,1.0,2025-10-29 03:45:19,2025-10-29 03:45:19,3894.89,False,High
+U000877,2025-07-18,3,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000878,2025-09-20,2,premium,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000879,2025-10-16,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000880,2025-08-05,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U000881,2025-09-16,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000882,2025-11-03,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000883,2025-10-22,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000884,2025-11-22,3,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000885,2025-12-16,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000886,2025-09-17,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U000887,2025-09-20,2,regular,web,4.0,1.0,2025-12-24 20:47:30,2025-12-24 20:47:30,2710.42,False,High
+U000888,2025-10-05,1,value,web,2.0,1.0,2025-12-17 07:11:17,2025-12-17 07:11:17,1847.89,False,High
+U000889,2025-10-20,3,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U000890,2025-07-16,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000891,2025-08-28,1,value,mobile,4.0,1.0,2025-12-11 14:31:30,2025-12-11 14:31:30,11887.53,False,High
+U000892,2025-07-29,1,regular,web,6.0,0.0,,,0.0,False,No Purchase
+U000893,2025-09-12,3,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000894,2026-01-13,2,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000895,2025-10-23,2,regular,web,6.0,0.0,,,0.0,False,No Purchase
+U000896,2025-09-21,3,premium,mobile,4.0,1.0,2025-11-14 10:07:24,2025-11-14 10:07:24,12207.85,False,High
+U000897,2025-10-20,1,premium,mobile,6.0,1.0,2025-12-28 05:33:46,2025-12-28 05:33:46,9297.36,False,High
+U000898,2025-11-10,3,premium,mobile,4.0,1.0,2025-11-18 02:00:40,2025-11-18 02:00:40,7827.21,False,High
+U000899,2025-09-22,2,regular,web,3.0,1.0,2026-01-11 12:40:27,2026-01-11 12:40:27,4367.9,False,High
+U000900,2025-09-25,1,value,web,6.0,1.0,2025-10-25 19:37:15,2025-10-25 19:37:15,7887.78,False,High
+U000901,2025-11-17,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000902,2025-07-06,3,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000903,2025-10-14,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000904,2025-10-16,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000905,2025-11-29,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000906,2026-01-15,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000907,2025-12-07,2,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000908,2025-10-07,2,regular,web,4.0,1.0,2025-12-17 08:38:28,2025-12-17 08:38:28,9173.96,False,High
+U000909,2025-07-29,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U000910,2025-10-24,1,premium,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000911,2025-12-15,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000912,2026-01-05,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000913,2025-12-13,2,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000914,2025-08-02,1,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000915,2025-11-20,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000916,2025-12-25,2,value,web,4.0,1.0,2025-12-02 09:40:14,2025-12-02 09:40:14,1469.77,False,High
+U000917,2025-11-13,1,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U000918,2025-11-14,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000919,2025-10-06,2,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000920,2025-11-04,3,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U000921,2025-08-24,1,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000922,2025-07-12,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000923,2025-12-14,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000924,2026-01-07,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000925,2025-12-20,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000926,2025-09-01,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000927,2025-07-13,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000928,2025-08-21,3,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000929,2025-12-17,2,value,web,1.0,0.0,,,0.0,False,No Purchase
+U000930,2025-11-08,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000931,2026-01-12,2,premium,web,3.0,0.0,,,0.0,False,No Purchase
+U000932,2025-09-03,3,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000933,2025-10-17,1,premium,web,3.0,1.0,2025-12-13 09:52:21,2025-12-13 09:52:21,9463.53,False,High
+U000934,2025-12-06,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000935,2025-08-11,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000936,2026-01-11,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U000937,2025-10-25,2,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U000938,2025-06-25,2,regular,mobile,1.0,1.0,2025-11-06 14:05:58,2025-11-06 14:05:58,14296.77,False,High
+U000939,2025-06-28,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000940,2025-12-25,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000941,2025-11-05,1,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U000942,2025-11-30,1,value,web,1.0,0.0,,,0.0,False,No Purchase
+U000943,2025-12-05,1,regular,web,4.0,1.0,2025-12-28 16:52:17,2025-12-28 16:52:17,9700.77,False,High
+U000944,2025-09-19,1,value,web,9.0,3.0,2025-11-09 12:23:41,2026-01-19 05:57:53,23450.54,True,High
+U000945,2025-12-08,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000946,2026-01-06,3,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U000947,2025-07-29,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000948,2025-11-30,1,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000949,2025-08-27,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000950,2025-08-29,1,value,web,1.0,0.0,,,0.0,False,No Purchase
+U000951,2025-09-18,3,premium,mobile,3.0,1.0,2025-11-02 16:15:24,2025-11-02 16:15:24,13947.37,False,High
+U000952,2025-12-21,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000953,2025-06-28,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000954,2025-09-22,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000955,2025-11-13,2,value,mobile,4.0,1.0,2025-12-26 16:40:31,2025-12-26 16:40:31,7830.04,False,High
+U000956,2025-07-16,2,regular,mobile,3.0,1.0,2025-11-30 21:41:20,2025-11-30 21:41:20,6937.31,False,High
+U000957,2025-12-06,3,regular,web,6.0,1.0,2026-01-19 09:43:20,2026-01-19 09:43:20,10627.21,False,High
+U000958,2026-01-07,1,premium,mobile,6.0,1.0,2025-12-09 17:12:47,2025-12-09 17:12:47,9111.92,False,High
+U000959,2025-07-12,3,regular,web,7.0,0.0,,,0.0,False,No Purchase
+U000960,2025-07-25,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000961,2026-01-14,3,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000962,2025-08-03,3,regular,mobile,4.0,1.0,2026-01-10 05:24:03,2026-01-10 05:24:03,11456.85,False,High
+U000963,2025-07-10,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000964,2026-01-09,1,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000965,2025-12-27,2,premium,web,3.0,0.0,,,0.0,False,No Purchase
+U000966,2025-11-08,2,regular,web,4.0,1.0,2025-12-02 14:51:48,2025-12-02 14:51:48,3768.43,False,High
+U000967,2025-10-17,2,regular,web,6.0,1.0,2025-12-14 01:58:09,2025-12-14 01:58:09,10745.41,False,High
+U000968,2026-01-02,2,premium,mobile,0.0,0.0,,,0.0,False,No Purchase
+U000969,2025-11-08,3,regular,web,4.0,1.0,2025-11-01 18:56:57,2025-11-01 18:56:57,2169.43,False,High
+U000970,2025-11-08,3,value,web,7.0,1.0,2025-12-17 00:16:57,2025-12-17 00:16:57,9986.57,False,High
+U000971,2025-12-17,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000972,2025-11-07,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000973,2025-10-07,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000974,2025-09-13,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U000975,2025-10-07,1,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000976,2025-10-11,2,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U000977,2025-09-07,3,value,web,2.0,0.0,,,0.0,False,No Purchase
+U000978,2025-09-25,2,regular,web,8.0,1.0,2025-12-11 16:52:14,2025-12-11 16:52:14,8269.67,False,High
+U000979,2025-12-08,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U000980,2025-09-18,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U000981,2025-06-28,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U000982,2025-08-21,3,value,web,6.0,0.0,,,0.0,False,No Purchase
+U000983,2025-08-11,3,regular,mobile,8.0,0.0,,,0.0,False,No Purchase
+U000984,2025-12-07,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U000985,2025-09-25,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000986,2025-08-21,2,value,mobile,7.0,0.0,,,0.0,False,No Purchase
+U000987,2025-12-10,2,regular,web,2.0,2.0,2025-10-31 17:50:31,2026-01-15 21:27:03,17267.03,True,High
+U000988,2025-06-27,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000989,2025-07-30,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U000990,2025-12-14,2,regular,web,4.0,1.0,2025-11-11 02:31:06,2025-11-11 02:31:06,18860.77,False,High
+U000991,2025-10-17,3,value,web,8.0,0.0,,,0.0,False,No Purchase
+U000992,2025-12-02,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000993,2025-12-16,2,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U000994,2026-01-07,1,regular,web,4.0,2.0,2026-01-14 13:45:51,2026-01-16 13:06:14,5823.38,True,High
+U000995,2025-07-06,1,regular,mobile,4.0,1.0,2025-11-05 07:29:22,2025-11-05 07:29:22,8807.1,False,High
+U000996,2025-12-08,3,value,web,3.0,1.0,2026-01-02 01:03:49,2026-01-02 01:03:49,5288.0,False,High
+U000997,2025-11-19,2,value,mobile,2.0,1.0,2026-01-03 22:32:40,2026-01-03 22:32:40,6716.89,False,High
+U000998,2025-08-05,1,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U000999,2026-01-05,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001000,2025-09-16,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001001,2025-12-26,1,value,mobile,4.0,1.0,2026-01-14 07:26:26,2026-01-14 07:26:26,1823.53,False,High
+U001002,2025-10-28,2,value,web,1.0,0.0,,,0.0,False,No Purchase
+U001003,2025-10-12,1,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001004,2025-07-26,2,regular,mobile,3.0,1.0,2025-11-05 22:28:19,2025-11-05 22:28:19,1405.0,False,High
+U001005,2026-01-01,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001006,2025-10-18,1,regular,web,3.0,1.0,2025-12-30 14:22:05,2025-12-30 14:22:05,10387.65,False,High
+U001007,2025-06-24,1,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001008,2025-06-27,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U001009,2025-12-03,1,regular,web,7.0,0.0,,,0.0,False,No Purchase
+U001010,2025-07-27,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001011,2025-10-27,1,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001012,2025-11-13,2,premium,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001013,2025-08-21,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001014,2025-10-20,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001015,2025-08-12,1,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001016,2026-01-08,3,premium,web,3.0,1.0,2025-12-22 22:55:33,2025-12-22 22:55:33,12848.26,False,High
+U001017,2025-12-21,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001018,2025-08-22,1,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001019,2025-10-12,1,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001020,2025-10-06,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001021,2026-01-11,2,regular,web,6.0,0.0,,,0.0,False,No Purchase
+U001022,2025-09-14,1,regular,mobile,5.0,2.0,2025-10-31 01:02:46,2025-11-25 21:40:39,12350.779999999999,True,High
+U001023,2025-10-19,1,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001024,2026-01-04,2,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U001025,2025-07-27,3,premium,mobile,2.0,1.0,2025-12-23 17:36:22,2025-12-23 17:36:22,2022.43,False,High
+U001026,2025-10-17,2,value,web,0.0,0.0,,,0.0,False,No Purchase
+U001027,2025-07-15,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001028,2025-10-31,2,premium,web,5.0,0.0,,,0.0,False,No Purchase
+U001029,2025-09-08,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001030,2026-01-12,2,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001031,2025-09-18,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001032,2025-07-22,1,premium,mobile,4.0,1.0,2025-12-06 17:57:22,2025-12-06 17:57:22,17628.48,False,High
+U001033,2025-12-15,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001034,2025-12-12,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001035,2025-11-16,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001036,2025-11-27,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001037,2025-08-18,2,premium,web,2.0,1.0,2025-12-26 12:54:22,2025-12-26 12:54:22,19228.11,False,High
+U001038,2025-11-05,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001039,2025-07-01,2,regular,mobile,7.0,0.0,,,0.0,False,No Purchase
+U001040,2025-08-03,3,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U001041,2026-01-05,3,regular,web,3.0,1.0,2026-01-11 06:13:20,2026-01-11 06:13:20,31533.63,False,High
+U001042,2025-11-25,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001043,2025-08-10,1,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001044,2025-07-16,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001045,2026-01-08,2,premium,web,9.0,1.0,2026-01-09 23:45:09,2026-01-09 23:45:09,6924.75,False,High
+U001046,2025-07-17,1,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001047,2025-08-16,1,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001048,2025-07-31,1,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001049,2025-06-25,2,regular,mobile,4.0,1.0,2026-01-08 14:34:26,2026-01-08 14:34:26,2568.39,False,High
+U001050,2025-08-28,2,value,mobile,4.0,1.0,2025-12-10 13:19:28,2025-12-10 13:19:28,4756.11,False,High
+U001051,2026-01-14,1,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001052,2025-09-03,3,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U001053,2025-10-07,3,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001054,2025-11-27,1,value,mobile,9.0,0.0,,,0.0,False,No Purchase
+U001055,2025-10-17,3,regular,mobile,8.0,1.0,2025-11-25 17:56:37,2025-11-25 17:56:37,2514.92,False,High
+U001056,2025-11-26,1,regular,web,6.0,1.0,2025-12-28 08:15:23,2025-12-28 08:15:23,11440.77,False,High
+U001057,2025-11-09,3,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001058,2025-10-29,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001059,2025-11-06,1,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001060,2025-12-08,3,regular,mobile,6.0,1.0,2026-01-05 06:49:27,2026-01-05 06:49:27,4951.17,False,High
+U001061,2025-11-19,3,regular,web,8.0,0.0,,,0.0,False,No Purchase
+U001062,2025-12-06,3,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U001063,2025-07-24,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001064,2025-11-12,2,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U001065,2025-11-25,1,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001066,2025-08-25,3,regular,web,4.0,2.0,2025-12-27 11:05:45,2026-01-03 07:44:32,25410.530000000002,True,High
+U001067,2025-12-24,2,value,web,7.0,0.0,,,0.0,False,No Purchase
+U001068,2025-08-26,2,regular,web,7.0,1.0,2025-10-25 01:35:24,2025-10-25 01:35:24,11001.2,False,High
+U001069,2025-08-13,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001070,2025-12-22,2,premium,web,5.0,1.0,2025-11-15 17:13:26,2025-11-15 17:13:26,5790.93,False,High
+U001071,2025-08-14,1,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001072,2025-09-18,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001073,2025-09-08,1,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001074,2025-12-29,3,value,web,0.0,0.0,,,0.0,False,No Purchase
+U001075,2025-09-27,3,regular,web,7.0,0.0,,,0.0,False,No Purchase
+U001076,2025-11-16,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001077,2025-12-07,2,regular,mobile,8.0,0.0,,,0.0,False,No Purchase
+U001078,2025-11-02,2,premium,mobile,7.0,2.0,2025-12-25 11:06:26,2026-01-16 05:39:14,10518.23,True,High
+U001079,2026-01-07,3,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001080,2025-12-08,3,premium,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001081,2025-09-15,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001082,2026-01-09,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001083,2025-10-11,1,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001084,2025-06-28,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001085,2025-08-17,3,premium,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001086,2025-11-01,3,regular,web,5.0,2.0,2025-11-03 20:27:39,2025-12-13 19:39:25,16686.14,True,High
+U001087,2025-07-26,1,premium,web,1.0,0.0,,,0.0,False,No Purchase
+U001088,2025-10-24,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001089,2025-09-07,2,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001090,2025-10-13,3,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001091,2025-06-23,1,regular,mobile,7.0,0.0,,,0.0,False,No Purchase
+U001092,2025-12-18,2,premium,web,4.0,0.0,,,0.0,False,No Purchase
+U001093,2025-09-07,3,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001094,2025-07-22,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001095,2025-09-23,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001096,2025-10-03,3,value,mobile,6.0,0.0,,,0.0,False,No Purchase
+U001097,2025-11-04,1,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001098,2025-10-11,1,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001099,2025-07-02,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001100,2025-12-23,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001101,2025-09-27,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001102,2025-07-09,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001103,2025-12-02,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001104,2025-11-09,2,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001105,2025-11-06,2,premium,web,3.0,1.0,2026-01-16 15:30:55,2026-01-16 15:30:55,5490.4,False,High
+U001106,2025-09-21,3,value,mobile,4.0,1.0,2025-11-26 18:13:11,2025-11-26 18:13:11,1572.92,False,High
+U001107,2025-09-17,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001108,2025-10-14,3,value,web,8.0,0.0,,,0.0,False,No Purchase
+U001109,2025-07-04,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001110,2025-08-25,3,value,web,1.0,0.0,,,0.0,False,No Purchase
+U001111,2026-01-16,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001112,2025-11-09,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001113,2025-09-19,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001114,2025-08-09,2,value,mobile,3.0,1.0,2025-11-20 18:37:47,2025-11-20 18:37:47,1593.81,False,High
+U001115,2025-11-26,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001116,2025-08-17,1,regular,mobile,6.0,0.0,,,0.0,False,No Purchase
+U001117,2025-07-27,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001118,2025-07-25,1,regular,web,4.0,1.0,2026-01-12 19:44:02,2026-01-12 19:44:02,12190.34,False,High
+U001119,2025-11-23,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001120,2025-11-05,1,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U001121,2025-07-08,2,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001122,2025-07-17,2,regular,web,5.0,1.0,2025-12-30 16:51:53,2025-12-30 16:51:53,6235.09,False,High
+U001123,2025-11-03,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001124,2025-10-21,2,regular,web,2.0,1.0,2026-01-08 20:03:10,2026-01-08 20:03:10,9777.18,False,High
+U001125,2025-11-14,1,value,web,5.0,0.0,,,0.0,False,No Purchase
+U001126,2025-07-30,2,premium,mobile,4.0,1.0,2025-10-25 02:42:22,2025-10-25 02:42:22,3098.34,False,High
+U001127,2025-11-23,2,regular,mobile,2.0,1.0,2025-11-23 12:59:48,2025-11-23 12:59:48,8868.0,False,High
+U001128,2026-01-06,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U001129,2025-10-27,1,value,web,0.0,0.0,,,0.0,False,No Purchase
+U001130,2025-08-03,1,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001131,2025-11-13,1,value,mobile,0.0,0.0,,,0.0,False,No Purchase
+U001132,2025-09-03,2,value,web,0.0,0.0,,,0.0,False,No Purchase
+U001133,2025-07-03,2,premium,web,2.0,1.0,2025-11-07 16:26:49,2025-11-07 16:26:49,11016.24,False,High
+U001134,2025-08-25,3,regular,web,4.0,1.0,2025-12-26 16:58:52,2025-12-26 16:58:52,20869.22,False,High
+U001135,2025-12-30,2,value,web,6.0,1.0,2026-01-16 00:54:05,2026-01-16 00:54:05,6656.83,False,High
+U001136,2025-09-17,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001137,2025-12-22,2,value,web,1.0,0.0,,,0.0,False,No Purchase
+U001138,2025-10-08,1,premium,web,4.0,0.0,,,0.0,False,No Purchase
+U001139,2025-10-10,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001140,2025-06-24,2,regular,web,5.0,1.0,2025-11-26 00:04:27,2025-11-26 00:04:27,1984.79,False,High
+U001141,2025-11-04,2,regular,mobile,6.0,0.0,,,0.0,False,No Purchase
+U001142,2025-07-16,1,value,mobile,0.0,0.0,,,0.0,False,No Purchase
+U001143,2025-10-01,3,value,web,1.0,1.0,2026-01-19 07:29:04,2026-01-19 07:29:04,8937.96,False,High
+U001144,2025-08-17,3,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U001145,2025-09-13,1,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U001146,2025-10-14,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001147,2025-06-26,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001148,2025-08-22,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001149,2026-01-17,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001150,2025-07-05,2,regular,mobile,2.0,1.0,2025-10-31 09:42:19,2025-10-31 09:42:19,20377.85,False,High
+U001151,2025-08-29,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001152,2025-08-29,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001153,2025-09-11,1,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001154,2025-11-14,2,premium,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001155,2025-08-14,2,value,web,1.0,0.0,,,0.0,False,No Purchase
+U001156,2025-09-28,1,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001157,2025-11-05,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001158,2025-08-30,3,value,web,7.0,0.0,,,0.0,False,No Purchase
+U001159,2026-01-08,1,value,web,1.0,0.0,,,0.0,False,No Purchase
+U001160,2026-01-15,2,value,web,6.0,0.0,,,0.0,False,No Purchase
+U001161,2025-07-18,3,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U001162,2025-09-03,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001163,2025-08-06,2,value,mobile,8.0,0.0,,,0.0,False,No Purchase
+U001164,2025-08-01,3,value,web,5.0,0.0,,,0.0,False,No Purchase
+U001165,2025-10-04,2,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001166,2025-10-19,1,premium,web,2.0,1.0,2025-12-07 03:14:24,2025-12-07 03:14:24,1643.61,False,High
+U001167,2025-09-20,1,value,mobile,7.0,1.0,2025-12-19 17:24:20,2025-12-19 17:24:20,6065.33,False,High
+U001168,2025-08-19,3,premium,web,4.0,0.0,,,0.0,False,No Purchase
+U001169,2025-08-20,2,premium,mobile,7.0,0.0,,,0.0,False,No Purchase
+U001170,2026-01-17,2,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001171,2026-01-03,1,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001172,2025-07-09,2,regular,mobile,2.0,1.0,2025-12-25 11:30:07,2025-12-25 11:30:07,6725.88,False,High
+U001173,2025-11-08,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001174,2025-09-27,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001175,2025-11-15,3,regular,mobile,0.0,0.0,,,0.0,False,No Purchase
+U001176,2025-10-26,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001177,2025-12-27,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001178,2025-07-07,3,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U001179,2025-09-04,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001180,2026-01-16,2,regular,mobile,3.0,1.0,2026-01-10 13:57:00,2026-01-10 13:57:00,6299.99,False,High
+U001181,2025-07-31,3,premium,mobile,0.0,0.0,,,0.0,False,No Purchase
+U001182,2025-07-20,2,value,web,6.0,3.0,2025-10-23 01:14:39,2025-11-28 03:40:11,15298.289999999999,True,High
+U001183,2025-11-23,2,value,web,2.0,1.0,2025-12-31 17:14:06,2025-12-31 17:14:06,8662.76,False,High
+U001184,2025-12-03,3,regular,mobile,0.0,0.0,,,0.0,False,No Purchase
+U001185,2025-11-11,1,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U001186,2025-12-03,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001187,2025-11-16,1,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001188,2025-07-21,2,value,mobile,4.0,1.0,2025-12-12 08:23:28,2025-12-12 08:23:28,24987.2,False,High
+U001189,2025-10-29,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001190,2025-12-03,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001191,2025-12-22,1,value,mobile,2.0,1.0,2025-10-31 11:26:53,2025-10-31 11:26:53,3802.89,False,High
+U001192,2025-08-14,2,premium,mobile,4.0,2.0,2025-11-24 19:38:30,2025-11-26 21:36:38,34196.85,True,High
+U001193,2025-07-20,2,value,mobile,0.0,0.0,,,0.0,False,No Purchase
+U001194,2025-12-04,2,premium,web,5.0,0.0,,,0.0,False,No Purchase
+U001195,2025-08-16,2,value,mobile,6.0,1.0,2026-01-16 11:21:13,2026-01-16 11:21:13,7456.34,False,High
+U001196,2025-06-30,3,premium,web,2.0,1.0,2025-12-25 09:48:49,2025-12-25 09:48:49,3916.66,False,High
+U001197,2025-12-13,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001198,2025-10-07,2,value,web,1.0,0.0,,,0.0,False,No Purchase
+U001199,2025-08-31,3,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001200,2025-06-25,2,value,mobile,3.0,1.0,2025-11-20 02:13:04,2025-11-20 02:13:04,3392.14,False,High
+U001201,2025-06-30,1,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001202,2025-12-06,3,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001203,2025-10-04,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001204,2025-07-24,1,regular,web,5.0,1.0,2025-10-28 19:48:04,2025-10-28 19:48:04,8053.59,False,High
+U001205,2025-09-06,2,regular,web,3.0,1.0,2025-12-14 19:03:49,2025-12-14 19:03:49,15603.59,False,High
+U001206,2025-07-28,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001207,2025-07-17,1,regular,mobile,7.0,1.0,2025-11-28 15:18:45,2025-11-28 15:18:45,13283.47,False,High
+U001208,2025-08-20,3,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001209,2025-10-16,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001210,2025-08-06,3,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001211,2025-09-03,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001212,2025-10-01,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001213,2025-09-19,3,value,web,1.0,0.0,,,0.0,False,No Purchase
+U001214,2025-07-20,3,regular,mobile,6.0,0.0,,,0.0,False,No Purchase
+U001215,2025-07-01,3,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001216,2025-06-30,2,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001217,2025-09-04,1,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001218,2025-11-21,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001219,2025-07-21,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001220,2025-12-05,1,value,web,1.0,0.0,,,0.0,False,No Purchase
+U001221,2025-11-20,2,regular,mobile,7.0,1.0,2025-12-19 18:53:26,2025-12-19 18:53:26,8909.17,False,High
+U001222,2025-06-24,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001223,2025-06-29,3,regular,web,4.0,1.0,2025-11-22 19:26:50,2025-11-22 19:26:50,10210.94,False,High
+U001224,2025-08-03,2,premium,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001225,2025-07-05,1,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001226,2025-10-13,1,premium,web,3.0,0.0,,,0.0,False,No Purchase
+U001227,2025-07-01,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001228,2025-12-08,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001229,2025-10-04,1,regular,web,3.0,1.0,2026-01-16 09:25:01,2026-01-16 09:25:01,7114.68,False,High
+U001230,2025-11-23,2,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U001231,2025-11-28,1,value,web,4.0,1.0,2025-12-24 02:38:13,2025-12-24 02:38:13,10674.22,False,High
+U001232,2025-10-07,2,value,web,8.0,0.0,,,0.0,False,No Purchase
+U001233,2026-01-03,2,regular,mobile,0.0,0.0,,,0.0,False,No Purchase
+U001234,2026-01-17,2,value,web,0.0,0.0,,,0.0,False,No Purchase
+U001235,2025-09-06,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001236,2025-07-19,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001237,2025-09-07,1,premium,web,3.0,0.0,,,0.0,False,No Purchase
+U001238,2025-08-09,1,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001239,2025-10-12,3,premium,mobile,4.0,1.0,2025-11-18 13:57:49,2025-11-18 13:57:49,11689.1,False,High
+U001240,2025-09-10,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001241,2025-10-02,3,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U001242,2025-11-30,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001243,2025-08-19,2,value,web,3.0,1.0,2025-11-07 09:52:13,2025-11-07 09:52:13,12249.59,False,High
+U001244,2025-10-14,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001245,2025-09-01,3,value,mobile,6.0,1.0,2026-01-11 14:28:36,2026-01-11 14:28:36,5818.96,False,High
+U001246,2025-12-05,3,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001247,2025-11-04,3,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001248,2025-06-25,3,value,mobile,7.0,0.0,,,0.0,False,No Purchase
+U001249,2025-11-09,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001250,2025-07-29,3,regular,mobile,4.0,1.0,2025-12-30 21:55:11,2025-12-30 21:55:11,10193.22,False,High
+U001251,2025-11-22,3,value,web,6.0,0.0,,,0.0,False,No Purchase
+U001252,2025-10-20,2,regular,web,4.0,1.0,2025-12-27 06:08:49,2025-12-27 06:08:49,2829.9,False,High
+U001253,2025-09-15,3,premium,mobile,6.0,0.0,,,0.0,False,No Purchase
+U001254,2025-11-16,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001255,2025-12-20,3,premium,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001256,2025-12-03,3,regular,mobile,0.0,0.0,,,0.0,False,No Purchase
+U001257,2025-10-15,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001258,2025-11-22,2,value,mobile,7.0,2.0,2025-11-06 07:47:11,2025-11-18 14:26:10,14432.28,True,High
+U001259,2025-09-18,1,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001260,2025-12-06,3,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001261,2025-12-14,3,value,web,1.0,0.0,,,0.0,False,No Purchase
+U001262,2025-07-22,2,premium,web,4.0,0.0,,,0.0,False,No Purchase
+U001263,2025-08-12,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001264,2025-08-19,1,premium,mobile,6.0,0.0,,,0.0,False,No Purchase
+U001265,2025-07-28,2,value,web,7.0,0.0,,,0.0,False,No Purchase
+U001266,2025-09-13,2,regular,mobile,2.0,1.0,2026-01-07 14:09:01,2026-01-07 14:09:01,9879.36,False,High
+U001267,2025-08-02,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001268,2025-10-26,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001269,2025-07-14,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001270,2025-08-19,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001271,2025-11-10,2,premium,mobile,0.0,0.0,,,0.0,False,No Purchase
+U001272,2025-09-15,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001273,2025-09-19,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001274,2025-12-08,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001275,2026-01-16,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001276,2025-10-20,2,value,mobile,3.0,1.0,2025-11-10 05:38:14,2025-11-10 05:38:14,6076.4,False,High
+U001277,2025-07-10,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001278,2025-07-15,2,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001279,2026-01-12,2,value,web,1.0,0.0,,,0.0,False,No Purchase
+U001280,2025-11-13,2,regular,mobile,4.0,1.0,2025-12-02 13:27:00,2025-12-02 13:27:00,7166.76,False,High
+U001281,2025-11-28,1,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001282,2025-11-12,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001283,2025-07-31,2,value,mobile,5.0,2.0,2025-11-17 05:17:29,2025-12-10 17:57:43,6196.58,True,High
+U001284,2025-09-25,2,regular,web,3.0,1.0,2025-11-13 16:50:29,2025-11-13 16:50:29,17920.21,False,High
+U001285,2025-12-08,3,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001286,2025-12-22,2,premium,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001287,2025-08-12,3,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001288,2025-10-26,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001289,2025-07-26,3,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001290,2026-01-10,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001291,2025-08-15,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001292,2025-11-23,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001293,2025-08-10,1,premium,web,4.0,0.0,,,0.0,False,No Purchase
+U001294,2025-10-30,3,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001295,2025-11-08,2,value,mobile,4.0,1.0,2025-12-06 13:19:56,2025-12-06 13:19:56,11549.12,False,High
+U001296,2025-08-31,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001297,2025-12-12,3,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U001298,2025-12-26,1,value,web,5.0,1.0,2025-12-29 03:39:24,2025-12-29 03:39:24,2583.18,False,High
+U001299,2025-12-20,2,regular,mobile,0.0,0.0,,,0.0,False,No Purchase
+U001300,2025-08-31,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001301,2025-11-26,1,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001302,2025-10-18,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001303,2025-10-25,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001304,2025-10-01,1,value,web,4.0,2.0,2025-11-30 01:39:18,2025-12-25 13:00:52,6807.97,True,High
+U001305,2025-10-27,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U001306,2025-07-21,2,value,web,0.0,0.0,,,0.0,False,No Purchase
+U001307,2025-09-17,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001308,2025-07-30,1,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001309,2025-08-21,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001310,2025-07-20,3,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001311,2025-08-07,1,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001312,2025-12-04,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001313,2025-10-16,2,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U001314,2025-06-28,3,premium,mobile,6.0,0.0,,,0.0,False,No Purchase
+U001315,2025-12-06,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001316,2025-12-31,1,premium,web,4.0,0.0,,,0.0,False,No Purchase
+U001317,2025-12-25,1,value,web,1.0,0.0,,,0.0,False,No Purchase
+U001318,2025-12-13,3,regular,mobile,5.0,1.0,2025-11-06 22:24:34,2025-11-06 22:24:34,3401.73,False,High
+U001319,2026-01-17,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001320,2025-10-24,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001321,2026-01-11,2,value,web,6.0,0.0,,,0.0,False,No Purchase
+U001322,2026-01-08,3,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001323,2025-08-28,1,regular,web,2.0,1.0,2026-01-06 06:02:05,2026-01-06 06:02:05,5189.95,False,High
+U001324,2025-12-21,1,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001325,2025-12-06,3,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001326,2025-12-03,3,value,web,5.0,0.0,,,0.0,False,No Purchase
+U001327,2025-12-28,2,regular,web,4.0,1.0,2025-11-21 07:49:07,2025-11-21 07:49:07,5663.6,False,High
+U001328,2025-09-12,2,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001329,2025-09-15,2,value,web,8.0,0.0,,,0.0,False,No Purchase
+U001330,2025-11-04,2,regular,web,6.0,1.0,2025-11-11 20:43:06,2025-11-11 20:43:06,10512.1,False,High
+U001331,2025-11-25,1,value,web,7.0,0.0,,,0.0,False,No Purchase
+U001332,2025-12-25,3,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U001333,2025-12-24,2,regular,mobile,4.0,1.0,2025-12-10 07:00:50,2025-12-10 07:00:50,4149.41,False,High
+U001334,2025-11-21,3,value,mobile,4.0,1.0,2025-11-11 18:25:16,2025-11-11 18:25:16,3236.55,False,High
+U001335,2026-01-10,1,value,mobile,11.0,0.0,,,0.0,False,No Purchase
+U001336,2025-07-30,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001337,2026-01-09,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001338,2025-07-06,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001339,2025-10-18,2,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U001340,2025-07-12,1,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001341,2025-10-20,3,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001342,2025-09-13,3,regular,mobile,6.0,2.0,2025-12-18 19:48:27,2025-12-20 11:41:33,5868.82,True,High
+U001343,2025-07-10,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001344,2025-11-06,1,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001345,2025-11-23,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001346,2025-07-30,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001347,2025-11-16,2,value,web,5.0,2.0,2025-11-04 04:53:51,2025-12-20 08:39:45,11851.78,True,High
+U001348,2025-07-31,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001349,2025-07-22,1,value,mobile,4.0,1.0,2025-12-29 22:18:38,2025-12-29 22:18:38,7128.37,False,High
+U001350,2025-07-24,2,premium,web,3.0,1.0,2025-12-10 22:21:25,2025-12-10 22:21:25,10971.11,False,High
+U001351,2025-10-27,2,premium,web,5.0,0.0,,,0.0,False,No Purchase
+U001352,2025-12-03,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001353,2025-10-26,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001354,2025-12-10,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001355,2025-10-25,2,regular,web,2.0,1.0,2026-01-05 08:48:13,2026-01-05 08:48:13,6197.67,False,High
+U001356,2025-12-07,2,regular,mobile,6.0,0.0,,,0.0,False,No Purchase
+U001357,2026-01-14,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001358,2025-09-13,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001359,2025-07-24,3,premium,mobile,7.0,0.0,,,0.0,False,No Purchase
+U001360,2025-07-21,2,regular,mobile,2.0,1.0,2025-12-29 22:15:01,2025-12-29 22:15:01,2991.33,False,High
+U001361,2025-10-26,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001362,2025-10-16,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001363,2025-08-01,2,value,web,4.0,1.0,2025-11-05 22:05:47,2025-11-05 22:05:47,8975.79,False,High
+U001364,2025-12-25,3,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001365,2026-01-10,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001366,2025-08-15,1,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001367,2025-08-05,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001368,2025-08-07,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001369,2025-09-12,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001370,2025-12-19,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U001371,2025-10-26,1,premium,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001372,2025-07-07,2,value,web,7.0,1.0,2026-01-11 11:42:46,2026-01-11 11:42:46,3114.71,False,High
+U001373,2025-09-30,1,value,mobile,7.0,0.0,,,0.0,False,No Purchase
+U001374,2025-07-12,3,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001375,2025-09-16,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U001376,2025-09-16,3,premium,web,1.0,0.0,,,0.0,False,No Purchase
+U001377,2025-11-06,3,value,mobile,0.0,0.0,,,0.0,False,No Purchase
+U001378,2025-10-16,2,premium,web,1.0,0.0,,,0.0,False,No Purchase
+U001379,2025-12-24,2,value,web,2.0,1.0,2026-01-12 07:53:28,2026-01-12 07:53:28,18066.44,False,High
+U001380,2025-06-26,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001381,2025-12-02,3,value,web,5.0,0.0,,,0.0,False,No Purchase
+U001382,2025-06-28,3,regular,mobile,4.0,1.0,2025-12-24 07:54:55,2025-12-24 07:54:55,2945.23,False,High
+U001383,2025-08-26,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001384,2025-12-25,2,regular,web,4.0,1.0,2025-12-19 04:34:28,2025-12-19 04:34:28,10016.3,False,High
+U001385,2025-11-15,1,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001386,2025-07-29,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001387,2025-10-04,2,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U001388,2025-11-22,2,regular,mobile,8.0,2.0,2025-11-03 00:57:22,2025-12-28 10:30:08,18337.33,True,High
+U001389,2026-01-06,1,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001390,2025-11-03,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001391,2025-06-28,3,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001392,2025-10-06,1,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U001393,2025-07-25,1,value,web,5.0,0.0,,,0.0,False,No Purchase
+U001394,2025-07-03,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001395,2025-10-27,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001396,2025-12-03,1,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001397,2025-07-01,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001398,2025-12-04,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001399,2025-11-18,3,premium,web,2.0,1.0,2025-11-15 07:39:59,2025-11-15 07:39:59,22054.68,False,High
+U001400,2025-11-28,2,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001401,2025-08-13,2,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001402,2025-09-14,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001403,2025-07-18,1,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001404,2025-08-12,3,regular,web,8.0,0.0,,,0.0,False,No Purchase
+U001405,2025-08-26,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001406,2025-08-29,1,premium,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001407,2025-07-30,3,regular,mobile,4.0,1.0,2026-01-09 20:11:54,2026-01-09 20:11:54,4797.01,False,High
+U001408,2025-08-02,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001409,2025-12-29,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001410,2025-12-05,2,regular,mobile,4.0,1.0,2026-01-17 00:38:25,2026-01-17 00:38:25,2890.95,False,High
+U001411,2025-09-03,2,regular,web,5.0,1.0,2025-11-22 20:13:23,2025-11-22 20:13:23,6190.75,False,High
+U001412,2026-01-08,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001413,2025-08-12,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001414,2025-09-16,2,regular,web,3.0,1.0,2025-12-15 23:07:16,2025-12-15 23:07:16,16236.94,False,High
+U001415,2025-12-11,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001416,2025-09-24,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001417,2025-08-11,3,value,web,4.0,1.0,2025-12-06 00:34:26,2025-12-06 00:34:26,646.36,False,High
+U001418,2025-09-08,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001419,2025-10-06,1,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001420,2025-10-31,2,premium,web,3.0,1.0,2025-10-25 16:29:27,2025-10-25 16:29:27,13805.39,False,High
+U001421,2025-09-16,1,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001422,2025-09-22,2,value,mobile,4.0,1.0,2025-12-23 00:49:06,2025-12-23 00:49:06,1664.01,False,High
+U001423,2025-08-17,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001424,2025-10-13,1,regular,mobile,4.0,1.0,2025-12-09 10:39:30,2025-12-09 10:39:30,12162.01,False,High
+U001425,2025-08-08,3,value,mobile,4.0,1.0,2025-12-23 00:57:09,2025-12-23 00:57:09,9287.05,False,High
+U001426,2025-12-22,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001427,2025-11-27,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001428,2025-09-17,1,value,web,0.0,0.0,,,0.0,False,No Purchase
+U001429,2025-11-27,1,regular,web,3.0,1.0,2025-11-07 18:50:34,2025-11-07 18:50:34,1864.56,False,High
+U001430,2025-06-24,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001431,2025-09-03,1,premium,web,1.0,0.0,,,0.0,False,No Purchase
+U001432,2025-09-23,2,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U001433,2025-09-30,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001434,2025-11-27,1,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001435,2026-01-11,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001436,2025-09-11,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001437,2025-09-05,2,regular,mobile,6.0,0.0,,,0.0,False,No Purchase
+U001438,2025-10-29,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001439,2025-08-21,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001440,2025-07-23,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001441,2026-01-11,1,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001442,2025-12-10,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001443,2026-01-10,2,value,mobile,3.0,1.0,2025-12-30 00:19:59,2025-12-30 00:19:59,11715.87,False,High
+U001444,2025-08-08,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001445,2025-06-27,2,premium,mobile,5.0,1.0,2025-12-08 22:27:35,2025-12-08 22:27:35,11311.56,False,High
+U001446,2025-09-23,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001447,2026-01-05,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001448,2025-07-22,1,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001449,2025-07-18,1,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001450,2025-07-07,3,premium,web,4.0,0.0,,,0.0,False,No Purchase
+U001451,2025-12-01,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U001452,2025-12-05,3,regular,web,4.0,1.0,2025-10-30 18:08:39,2025-10-30 18:08:39,3178.14,False,High
+U001453,2025-11-16,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001454,2025-07-04,3,premium,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001455,2025-11-22,3,value,web,5.0,1.0,2025-12-24 03:47:27,2025-12-24 03:47:27,1746.02,False,High
+U001456,2025-09-25,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001457,2025-07-26,1,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001458,2025-08-24,1,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001459,2025-10-06,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001460,2025-08-31,1,value,mobile,6.0,0.0,,,0.0,False,No Purchase
+U001461,2026-01-13,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001462,2025-10-01,2,value,web,1.0,0.0,,,0.0,False,No Purchase
+U001463,2025-09-09,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001464,2025-11-11,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001465,2025-11-07,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001466,2025-06-23,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001467,2025-10-31,1,regular,web,6.0,0.0,,,0.0,False,No Purchase
+U001468,2025-08-13,3,premium,web,1.0,0.0,,,0.0,False,No Purchase
+U001469,2025-09-10,1,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001470,2025-11-18,2,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001471,2025-10-18,3,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001472,2025-09-08,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001473,2025-07-28,2,regular,mobile,3.0,2.0,2025-11-12 07:53:45,2025-11-14 17:03:32,13519.42,True,High
+U001474,2025-10-07,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001475,2025-08-29,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001476,2026-01-01,2,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001477,2025-10-13,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001478,2025-12-22,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001479,2025-09-13,2,premium,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001480,2025-12-14,2,value,web,0.0,0.0,,,0.0,False,No Purchase
+U001481,2025-07-05,2,regular,mobile,5.0,1.0,2025-11-03 14:13:36,2025-11-03 14:13:36,6776.11,False,High
+U001482,2025-08-25,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001483,2025-07-09,1,value,web,3.0,1.0,2026-01-09 23:06:50,2026-01-09 23:06:50,1760.98,False,High
+U001484,2025-06-30,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001485,2026-01-02,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001486,2025-11-20,1,regular,web,10.0,2.0,2025-12-02 19:06:13,2026-01-11 05:21:46,14266.150000000001,True,High
+U001487,2025-11-01,2,value,mobile,4.0,1.0,2025-12-06 16:18:32,2025-12-06 16:18:32,3264.19,False,High
+U001488,2025-10-13,3,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U001489,2025-10-21,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001490,2025-11-04,1,regular,mobile,6.0,1.0,2025-10-22 13:57:29,2025-10-22 13:57:29,3276.27,False,High
+U001491,2025-12-14,1,premium,web,3.0,1.0,2025-12-14 07:38:04,2025-12-14 07:38:04,6810.37,False,High
+U001492,2025-10-26,1,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001493,2025-11-27,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001494,2025-08-21,3,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001495,2026-01-14,1,premium,mobile,2.0,2.0,2025-12-03 13:23:23,2025-12-23 01:43:39,11418.79,True,High
+U001496,2025-06-30,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001497,2025-09-12,1,premium,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001498,2025-12-25,2,value,web,6.0,2.0,2025-11-11 16:13:32,2025-11-22 01:43:29,4828.12,True,High
+U001499,2025-07-31,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001500,2025-07-23,2,regular,mobile,7.0,0.0,,,0.0,False,No Purchase
+U001501,2025-09-08,1,value,mobile,9.0,1.0,2025-11-25 05:29:39,2025-11-25 05:29:39,12202.44,False,High
+U001502,2025-09-21,2,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001503,2026-01-05,3,premium,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001504,2025-12-16,2,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001505,2025-09-28,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001506,2026-01-13,1,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001507,2025-11-05,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001508,2025-12-23,2,regular,web,6.0,0.0,,,0.0,False,No Purchase
+U001509,2025-08-14,3,premium,mobile,1.0,1.0,2026-01-04 02:01:45,2026-01-04 02:01:45,9315.05,False,High
+U001510,2025-10-04,3,premium,web,7.0,0.0,,,0.0,False,No Purchase
+U001511,2025-06-29,3,regular,web,7.0,0.0,,,0.0,False,No Purchase
+U001512,2025-06-25,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001513,2025-11-18,1,value,mobile,6.0,0.0,,,0.0,False,No Purchase
+U001514,2025-07-18,2,premium,web,1.0,0.0,,,0.0,False,No Purchase
+U001515,2025-10-16,2,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001516,2025-11-16,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001517,2025-06-30,3,premium,mobile,8.0,0.0,,,0.0,False,No Purchase
+U001518,2025-09-25,2,premium,web,1.0,0.0,,,0.0,False,No Purchase
+U001519,2025-11-14,3,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001520,2025-12-27,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001521,2025-08-25,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001522,2026-01-14,2,value,web,3.0,1.0,2025-11-25 06:20:43,2025-11-25 06:20:43,768.56,False,High
+U001523,2025-12-17,1,value,web,3.0,1.0,2025-12-09 04:35:37,2025-12-09 04:35:37,9833.39,False,High
+U001524,2025-11-07,1,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001525,2025-09-13,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001526,2025-11-19,1,regular,web,7.0,0.0,,,0.0,False,No Purchase
+U001527,2025-12-11,3,regular,mobile,5.0,1.0,2025-12-16 16:20:27,2025-12-16 16:20:27,2274.39,False,High
+U001528,2025-08-26,1,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001529,2026-01-17,1,premium,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001530,2025-12-31,3,regular,web,1.0,1.0,2026-01-06 19:24:35,2026-01-06 19:24:35,12731.95,False,High
+U001531,2025-10-03,1,premium,web,4.0,0.0,,,0.0,False,No Purchase
+U001532,2025-11-22,3,value,mobile,6.0,0.0,,,0.0,False,No Purchase
+U001533,2025-10-11,3,regular,mobile,3.0,2.0,2025-12-09 03:32:33,2025-12-29 22:49:47,12905.330000000002,True,High
+U001534,2025-11-30,1,regular,web,5.0,3.0,2025-10-29 10:36:16,2025-11-29 02:15:29,17624.11,True,High
+U001535,2025-12-14,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001536,2025-06-28,2,value,mobile,7.0,1.0,2025-10-30 17:13:45,2025-10-30 17:13:45,7326.19,False,High
+U001537,2025-07-10,3,value,mobile,7.0,0.0,,,0.0,False,No Purchase
+U001538,2025-09-02,3,value,web,1.0,0.0,,,0.0,False,No Purchase
+U001539,2026-01-02,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001540,2025-09-15,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001541,2025-12-26,2,value,mobile,3.0,1.0,2025-11-02 13:11:31,2025-11-02 13:11:31,9970.72,False,High
+U001542,2025-09-28,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001543,2025-08-23,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001544,2025-12-29,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001545,2025-10-19,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001546,2025-09-07,2,value,mobile,1.0,1.0,2025-10-30 23:30:56,2025-10-30 23:30:56,14283.2,False,High
+U001547,2025-07-02,3,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001548,2025-07-16,3,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001549,2025-07-22,1,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001550,2025-09-08,1,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001551,2025-10-28,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001552,2025-08-27,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001553,2025-07-07,2,premium,web,5.0,0.0,,,0.0,False,No Purchase
+U001554,2025-08-18,1,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U001555,2025-09-17,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001556,2026-01-17,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001557,2025-09-13,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001558,2025-07-12,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001559,2025-10-23,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001560,2026-01-02,2,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001561,2025-12-05,3,value,web,4.0,2.0,2025-10-25 16:49:15,2025-12-13 13:28:37,382972.24,True,High
+U001562,2025-12-16,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001563,2026-01-04,2,premium,web,4.0,1.0,2025-12-25 08:54:28,2025-12-25 08:54:28,9319.23,False,High
+U001564,2025-11-04,2,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U001565,2026-01-18,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001566,2025-06-30,2,regular,web,6.0,0.0,,,0.0,False,No Purchase
+U001567,2025-12-15,2,value,web,7.0,2.0,2025-10-24 04:01:01,2025-11-20 11:06:02,11241.720000000001,True,High
+U001568,2025-12-20,3,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U001569,2026-01-01,2,premium,mobile,3.0,2.0,2025-10-24 15:16:41,2025-11-29 18:28:58,18000.010000000002,True,High
+U001570,2025-10-01,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001571,2025-12-05,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001572,2025-08-03,1,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U001573,2025-10-28,3,regular,web,3.0,1.0,2026-01-01 12:13:11,2026-01-01 12:13:11,4422.31,False,High
+U001574,2025-09-06,3,regular,web,6.0,0.0,,,0.0,False,No Purchase
+U001575,2025-10-26,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001576,2025-11-12,2,premium,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001577,2025-09-04,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001578,2025-08-07,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001579,2025-08-29,3,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001580,2025-11-09,3,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001581,2025-11-12,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U001582,2025-11-26,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001583,2025-07-20,1,value,web,4.0,1.0,2026-01-02 07:07:12,2026-01-02 07:07:12,2146.61,False,High
+U001584,2025-12-12,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001585,2025-11-14,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001586,2025-06-29,2,value,mobile,9.0,0.0,,,0.0,False,No Purchase
+U001587,2025-09-01,3,premium,web,9.0,0.0,,,0.0,False,No Purchase
+U001588,2025-09-29,2,premium,web,5.0,1.0,2025-12-22 06:38:06,2025-12-22 06:38:06,1130.71,False,High
+U001589,2025-09-07,1,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001590,2025-07-18,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001591,2025-08-05,2,regular,mobile,7.0,0.0,,,0.0,False,No Purchase
+U001592,2025-06-28,3,premium,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001593,2025-07-12,2,value,mobile,6.0,1.0,2025-11-26 02:52:30,2025-11-26 02:52:30,12192.03,False,High
+U001594,2025-08-18,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001595,2025-12-12,3,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001596,2025-10-12,1,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001597,2025-09-20,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001598,2025-11-09,3,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001599,2025-10-15,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U001600,2025-07-21,1,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U001601,2025-08-09,3,premium,web,3.0,0.0,,,0.0,False,No Purchase
+U001602,2025-08-09,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001603,2025-10-27,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001604,2025-09-28,2,regular,mobile,0.0,0.0,,,0.0,False,No Purchase
+U001605,2025-09-12,1,regular,web,6.0,1.0,2025-11-30 05:34:23,2025-11-30 05:34:23,7736.86,False,High
+U001606,2025-10-18,3,regular,mobile,4.0,1.0,2026-01-03 17:32:43,2026-01-03 17:32:43,11545.97,False,High
+U001607,2026-01-13,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001608,2025-08-28,1,premium,web,1.0,0.0,,,0.0,False,No Purchase
+U001609,2025-10-10,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001610,2025-10-02,3,value,mobile,7.0,2.0,2025-11-27 01:46:52,2025-12-13 17:23:58,18750.24,True,High
+U001611,2025-11-20,3,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U001612,2025-11-23,2,value,web,6.0,0.0,,,0.0,False,No Purchase
+U001613,2025-11-23,1,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001614,2025-08-04,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001615,2025-09-25,3,regular,mobile,2.0,1.0,2026-01-16 14:21:57,2026-01-16 14:21:57,823.3,False,High
+U001616,2025-12-10,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001617,2025-09-11,2,value,web,0.0,0.0,,,0.0,False,No Purchase
+U001618,2026-01-16,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001619,2025-09-08,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001620,2025-10-05,1,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001621,2025-10-01,1,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001622,2025-09-22,1,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001623,2025-12-18,3,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001624,2025-07-26,1,value,web,1.0,0.0,,,0.0,False,No Purchase
+U001625,2025-10-20,1,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001626,2025-10-31,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001627,2025-12-19,1,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001628,2025-10-29,1,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001629,2026-01-11,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001630,2025-12-23,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001631,2025-09-04,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001632,2025-12-21,3,value,web,5.0,1.0,2025-12-04 19:04:00,2025-12-04 19:04:00,4093.59,False,High
+U001633,2026-01-10,1,value,web,3.0,1.0,2025-11-21 03:41:44,2025-11-21 03:41:44,2847.4,False,High
+U001634,2025-08-16,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001635,2025-10-29,3,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001636,2025-08-21,3,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U001637,2025-11-06,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001638,2025-07-13,2,value,web,6.0,0.0,,,0.0,False,No Purchase
+U001639,2025-11-24,2,premium,mobile,2.0,1.0,2025-11-03 19:27:48,2025-11-03 19:27:48,1586.21,False,High
+U001640,2025-09-19,2,value,mobile,2.0,1.0,2026-01-17 01:10:07,2026-01-17 01:10:07,3825.62,False,High
+U001641,2025-10-24,1,value,mobile,1.0,1.0,2025-11-26 17:41:13,2025-11-26 17:41:13,2866.15,False,High
+U001642,2025-06-28,3,premium,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001643,2025-11-16,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001644,2025-10-05,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001645,2025-11-01,2,value,mobile,7.0,0.0,,,0.0,False,No Purchase
+U001646,2025-08-28,1,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001647,2025-07-24,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001648,2025-09-22,2,value,mobile,2.0,1.0,2025-12-25 04:54:21,2025-12-25 04:54:21,7689.0,False,High
+U001649,2026-01-07,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001650,2025-08-10,2,regular,web,5.0,1.0,2025-11-17 03:22:31,2025-11-17 03:22:31,7863.57,False,High
+U001651,2025-11-12,1,value,mobile,3.0,1.0,2025-11-19 11:54:05,2025-11-19 11:54:05,10886.52,False,High
+U001652,2025-07-03,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001653,2025-11-21,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001654,2025-08-12,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001655,2025-09-26,1,regular,mobile,4.0,1.0,2025-12-20 04:09:58,2025-12-20 04:09:58,2438.46,False,High
+U001656,2025-09-08,2,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001657,2025-07-17,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001658,2025-09-04,2,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001659,2025-09-04,2,regular,mobile,6.0,0.0,,,0.0,False,No Purchase
+U001660,2025-10-11,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001661,2026-01-13,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001662,2025-09-30,2,premium,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001663,2026-01-01,2,regular,web,2.0,1.0,2026-01-05 18:04:02,2026-01-05 18:04:02,2781.61,False,High
+U001664,2025-09-28,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001665,2025-07-16,2,premium,mobile,6.0,0.0,,,0.0,False,No Purchase
+U001666,2025-08-10,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001667,2025-09-17,1,premium,mobile,6.0,2.0,2025-12-18 02:45:14,2026-01-04 06:37:16,16767.2,True,High
+U001668,2025-08-30,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001669,2025-12-22,2,regular,web,2.0,1.0,2026-01-13 05:19:46,2026-01-13 05:19:46,3318.19,False,High
+U001670,2025-11-12,3,premium,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001671,2025-10-22,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001672,2025-10-04,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001673,2025-09-14,2,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001674,2025-10-30,1,regular,web,3.0,1.0,2026-01-01 02:45:33,2026-01-01 02:45:33,3411.05,False,High
+U001675,2025-07-19,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001676,2025-07-27,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001677,2025-08-26,3,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001678,2025-07-29,1,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001679,2025-11-12,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001680,2025-06-28,3,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001681,2025-07-27,3,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001682,2025-12-29,2,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001683,2026-01-18,2,value,web,6.0,0.0,,,0.0,False,No Purchase
+U001684,2025-10-03,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001685,2025-10-05,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001686,2025-12-02,1,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001687,2025-07-01,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001688,2025-09-21,1,value,mobile,4.0,1.0,2025-10-28 08:31:07,2025-10-28 08:31:07,10115.71,False,High
+U001689,2025-07-14,3,premium,mobile,3.0,1.0,2026-01-11 14:50:30,2026-01-11 14:50:30,2170.92,False,High
+U001690,2025-09-15,1,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U001691,2026-01-16,1,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001692,2025-11-28,1,premium,web,8.0,1.0,2025-12-07 04:59:09,2025-12-07 04:59:09,12241.26,False,High
+U001693,2026-01-16,2,premium,mobile,6.0,0.0,,,0.0,False,No Purchase
+U001694,2025-11-27,2,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001695,2025-10-29,1,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001696,2025-11-28,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001697,2025-11-08,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001698,2025-09-28,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001699,2025-08-23,3,value,web,1.0,0.0,,,0.0,False,No Purchase
+U001700,2025-10-10,2,value,mobile,2.0,1.0,2025-11-02 19:00:05,2025-11-02 19:00:05,12753.39,False,High
+U001701,2025-08-16,1,premium,web,6.0,0.0,,,0.0,False,No Purchase
+U001702,2025-10-03,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001703,2025-07-24,3,value,mobile,3.0,1.0,2026-01-04 23:56:23,2026-01-04 23:56:23,2798.25,False,High
+U001704,2025-10-20,1,value,mobile,3.0,2.0,2025-12-08 23:23:56,2025-12-11 10:08:51,23691.41,True,High
+U001705,2025-08-13,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001706,2025-08-24,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001707,2025-10-06,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001708,2025-07-27,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001709,2026-01-11,2,value,mobile,5.0,1.0,2025-12-06 09:33:31,2025-12-06 09:33:31,522.45,False,High
+U001710,2025-09-25,2,value,mobile,7.0,1.0,2026-01-02 06:31:40,2026-01-02 06:31:40,8027.36,False,High
+U001711,2025-09-05,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001712,2025-06-29,1,regular,mobile,4.0,2.0,2025-11-07 21:53:11,2026-01-11 19:15:07,15616.140000000001,True,High
+U001713,2025-12-17,1,regular,web,6.0,0.0,,,0.0,False,No Purchase
+U001714,2025-11-01,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001715,2025-09-18,1,regular,web,6.0,1.0,2025-12-31 04:43:18,2025-12-31 04:43:18,6070.51,False,High
+U001716,2025-08-14,2,regular,web,9.0,1.0,2025-11-30 14:56:35,2025-11-30 14:56:35,6229.43,False,High
+U001717,2025-11-26,2,regular,web,7.0,0.0,,,0.0,False,No Purchase
+U001718,2026-01-07,3,regular,web,8.0,0.0,,,0.0,False,No Purchase
+U001719,2025-09-11,3,regular,mobile,6.0,0.0,,,0.0,False,No Purchase
+U001720,2025-07-21,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U001721,2025-07-16,3,premium,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001722,2025-06-24,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001723,2025-11-26,2,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001724,2026-01-15,1,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001725,2026-01-17,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001726,2025-12-05,3,regular,web,6.0,1.0,2025-11-02 20:01:46,2025-11-02 20:01:46,20651.54,False,High
+U001727,2025-07-27,3,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001728,2026-01-14,3,regular,mobile,7.0,2.0,2025-12-08 03:37:54,2026-01-11 12:35:11,13200.49,True,High
+U001729,2025-08-31,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001730,2025-09-01,1,regular,web,7.0,1.0,2026-01-06 10:13:10,2026-01-06 10:13:10,7551.62,False,High
+U001731,2025-11-14,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001732,2025-07-03,2,regular,web,4.0,2.0,2025-10-26 02:47:25,2025-11-01 07:42:33,16137.65,True,High
+U001733,2025-12-13,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001734,2026-01-18,2,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001735,2025-12-03,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001736,2025-12-04,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001737,2025-09-13,1,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001738,2025-07-07,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001739,2025-12-06,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001740,2025-10-26,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001741,2025-12-31,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001742,2025-07-17,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001743,2025-08-26,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001744,2025-09-07,2,value,web,6.0,1.0,2025-12-12 07:43:19,2025-12-12 07:43:19,3810.64,False,High
+U001745,2025-11-13,1,value,mobile,7.0,2.0,2025-11-25 13:56:38,2025-12-09 08:49:35,14020.31,True,High
+U001746,2025-12-05,3,value,mobile,6.0,1.0,2026-01-04 08:32:18,2026-01-04 08:32:18,7929.59,False,High
+U001747,2026-01-11,1,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001748,2025-08-24,3,premium,mobile,4.0,1.0,2025-12-08 01:19:24,2025-12-08 01:19:24,10007.23,False,High
+U001749,2025-10-05,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001750,2025-06-29,2,value,web,3.0,2.0,2025-12-09 10:44:46,2025-12-14 09:49:43,8996.380000000001,True,High
+U001751,2025-08-15,3,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U001752,2025-09-09,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001753,2025-10-26,3,value,mobile,3.0,1.0,2025-12-21 12:37:05,2025-12-21 12:37:05,2884.87,False,High
+U001754,2025-09-30,3,value,web,1.0,0.0,,,0.0,False,No Purchase
+U001755,2025-09-07,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001756,2025-11-01,2,value,web,2.0,1.0,2025-11-20 17:25:44,2025-11-20 17:25:44,2246.66,False,High
+U001757,2025-12-14,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001758,2025-08-13,3,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001759,2025-09-03,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001760,2025-11-18,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001761,2025-12-03,3,value,web,4.0,1.0,2026-01-12 22:23:15,2026-01-12 22:23:15,6060.2,False,High
+U001762,2025-12-13,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001763,2025-08-06,3,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U001764,2025-10-14,2,regular,mobile,2.0,1.0,2026-01-02 10:36:36,2026-01-02 10:36:36,10030.12,False,High
+U001765,2025-12-29,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001766,2025-09-13,1,value,mobile,2.0,1.0,2026-01-06 19:57:45,2026-01-06 19:57:45,4083.99,False,High
+U001767,2025-09-21,1,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001768,2026-01-16,3,regular,web,5.0,1.0,2025-12-08 03:03:03,2025-12-08 03:03:03,4171.51,False,High
+U001769,2025-07-17,2,premium,web,7.0,0.0,,,0.0,False,No Purchase
+U001770,2025-11-18,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001771,2025-12-18,1,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001772,2025-07-25,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001773,2025-11-20,3,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001774,2025-09-30,3,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001775,2025-12-19,1,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001776,2025-12-31,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001777,2025-12-23,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001778,2025-07-06,2,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001779,2025-11-29,2,value,web,6.0,0.0,,,0.0,False,No Purchase
+U001780,2026-01-02,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001781,2025-10-31,2,regular,web,2.0,1.0,2025-11-06 21:34:00,2025-11-06 21:34:00,13138.44,False,High
+U001782,2025-10-27,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001783,2025-07-02,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001784,2025-12-20,2,value,web,6.0,0.0,,,0.0,False,No Purchase
+U001785,2025-07-03,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001786,2025-08-28,3,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001787,2026-01-03,2,regular,mobile,5.0,1.0,2025-11-10 12:27:48,2025-11-10 12:27:48,4901.78,False,High
+U001788,2026-01-08,3,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001789,2026-01-17,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001790,2025-10-01,1,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001791,2025-07-30,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U001792,2025-10-03,2,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001793,2025-07-14,3,regular,mobile,5.0,1.0,2025-11-01 02:43:33,2025-11-01 02:43:33,13216.96,False,High
+U001794,2025-12-23,1,value,mobile,10.0,0.0,,,0.0,False,No Purchase
+U001795,2025-10-19,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U001796,2025-09-16,2,regular,web,3.0,1.0,2025-12-16 05:16:10,2025-12-16 05:16:10,540.66,False,High
+U001797,2025-07-10,2,premium,web,3.0,1.0,2025-11-03 16:25:51,2025-11-03 16:25:51,682.19,False,High
+U001798,2025-09-16,3,value,web,6.0,0.0,,,0.0,False,No Purchase
+U001799,2025-12-22,2,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001800,2025-11-18,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001801,2025-07-10,3,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001802,2025-07-27,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001803,2025-09-13,1,regular,web,4.0,1.0,2026-01-16 13:01:37,2026-01-16 13:01:37,5922.34,False,High
+U001804,2025-07-14,3,value,web,6.0,0.0,,,0.0,False,No Purchase
+U001805,2026-01-05,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001806,2025-11-07,2,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U001807,2025-07-13,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001808,2025-12-05,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001809,2025-09-08,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001810,2025-08-13,2,value,mobile,8.0,0.0,,,0.0,False,No Purchase
+U001811,2025-10-21,3,premium,web,1.0,0.0,,,0.0,False,No Purchase
+U001812,2025-06-26,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001813,2025-09-29,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U001814,2025-12-17,3,premium,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001815,2026-01-04,1,value,mobile,0.0,0.0,,,0.0,False,No Purchase
+U001816,2025-09-03,1,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U001817,2025-11-05,2,value,web,1.0,0.0,,,0.0,False,No Purchase
+U001818,2025-08-10,3,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001819,2025-10-19,1,regular,mobile,9.0,2.0,2025-10-30 02:30:23,2025-11-19 03:39:43,18849.04,True,High
+U001820,2025-08-15,1,regular,mobile,4.0,1.0,2026-01-04 05:53:32,2026-01-04 05:53:32,3789.19,False,High
+U001821,2025-10-21,1,premium,web,4.0,1.0,2026-01-05 22:44:47,2026-01-05 22:44:47,9606.85,False,High
+U001822,2025-07-29,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001823,2026-01-07,1,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001824,2025-12-26,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001825,2025-09-02,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001826,2025-12-03,1,premium,web,2.0,1.0,2025-11-11 10:20:17,2025-11-11 10:20:17,4769.8,False,High
+U001827,2025-07-13,2,regular,mobile,4.0,2.0,2025-11-16 19:05:10,2025-11-28 03:24:09,9356.439999999999,True,High
+U001828,2025-11-25,2,regular,web,3.0,1.0,2025-12-09 23:01:46,2025-12-09 23:01:46,3701.09,False,High
+U001829,2025-08-21,3,value,web,5.0,1.0,2025-12-21 10:16:02,2025-12-21 10:16:02,4758.87,False,High
+U001830,2025-07-21,2,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001831,2025-11-12,2,premium,mobile,6.0,1.0,2025-11-28 16:50:19,2025-11-28 16:50:19,6593.81,False,High
+U001832,2025-09-30,1,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001833,2025-10-12,3,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001834,2025-10-10,3,value,web,6.0,1.0,2026-01-10 02:16:28,2026-01-10 02:16:28,2130.54,False,High
+U001835,2025-07-05,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001836,2025-07-04,2,regular,mobile,5.0,1.0,2025-11-05 10:04:33,2025-11-05 10:04:33,2979.49,False,High
+U001837,2025-10-27,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001838,2025-11-01,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001839,2025-07-03,2,regular,mobile,4.0,1.0,2026-01-15 18:30:14,2026-01-15 18:30:14,1668.41,False,High
+U001840,2025-09-10,2,regular,web,6.0,1.0,2026-01-12 07:21:30,2026-01-12 07:21:30,15301.49,False,High
+U001841,2025-10-30,2,value,web,7.0,1.0,2025-11-14 07:37:37,2025-11-14 07:37:37,2157.6,False,High
+U001842,2025-11-08,2,regular,web,6.0,0.0,,,0.0,False,No Purchase
+U001843,2025-12-14,2,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001844,2025-09-19,1,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001845,2025-10-16,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001846,2025-10-22,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001847,2025-08-27,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U001848,2025-07-04,1,premium,web,3.0,0.0,,,0.0,False,No Purchase
+U001849,2025-06-24,3,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001850,2025-12-16,1,regular,mobile,7.0,0.0,,,0.0,False,No Purchase
+U001851,2025-08-04,3,premium,web,4.0,1.0,2025-10-30 01:24:17,2025-10-30 01:24:17,9639.43,False,High
+U001852,2025-11-02,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001853,2025-10-22,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001854,2025-09-15,1,regular,web,3.0,1.0,2025-10-23 13:39:28,2025-10-23 13:39:28,1682.0,False,High
+U001855,2025-12-15,1,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001856,2025-11-17,2,regular,mobile,5.0,1.0,2025-11-13 08:29:26,2025-11-13 08:29:26,3753.22,False,High
+U001857,2025-06-28,1,regular,mobile,5.0,1.0,2025-10-29 07:31:15,2025-10-29 07:31:15,2106.16,False,High
+U001858,2025-12-03,1,value,mobile,4.0,1.0,2025-11-08 21:15:10,2025-11-08 21:15:10,3152.54,False,High
+U001859,2025-10-07,3,regular,mobile,8.0,0.0,,,0.0,False,No Purchase
+U001860,2025-09-04,3,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001861,2025-11-23,1,premium,mobile,4.0,1.0,2025-12-03 13:50:13,2025-12-03 13:50:13,3784.18,False,High
+U001862,2025-11-14,3,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001863,2025-08-27,3,value,mobile,6.0,1.0,2025-11-27 14:18:00,2025-11-27 14:18:00,3156.6,False,High
+U001864,2026-01-15,3,premium,mobile,8.0,0.0,,,0.0,False,No Purchase
+U001865,2025-11-06,2,value,mobile,4.0,1.0,2025-12-21 20:45:14,2025-12-21 20:45:14,3625.25,False,High
+U001866,2025-10-28,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U001867,2025-07-08,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001868,2025-08-21,2,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001869,2025-09-25,3,value,web,5.0,0.0,,,0.0,False,No Purchase
+U001870,2025-11-02,1,regular,mobile,4.0,1.0,2025-12-03 02:50:50,2025-12-03 02:50:50,4235.67,False,High
+U001871,2025-10-09,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001872,2025-11-30,1,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001873,2025-08-17,3,value,web,5.0,0.0,,,0.0,False,No Purchase
+U001874,2025-11-17,2,regular,mobile,0.0,0.0,,,0.0,False,No Purchase
+U001875,2025-12-11,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001876,2025-12-01,3,value,web,9.0,0.0,,,0.0,False,No Purchase
+U001877,2025-12-02,3,regular,web,4.0,1.0,2026-01-12 07:29:11,2026-01-12 07:29:11,5819.83,False,High
+U001878,2025-12-27,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001879,2025-07-11,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001880,2025-11-16,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001881,2026-01-12,1,premium,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001882,2025-10-21,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001883,2025-08-08,2,regular,web,7.0,3.0,2025-12-14 04:15:17,2026-01-16 17:06:42,14997.29,True,High
+U001884,2026-01-19,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001885,2025-07-30,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001886,2025-09-01,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001887,2025-07-29,1,premium,web,3.0,0.0,,,0.0,False,No Purchase
+U001888,2025-09-28,1,premium,web,5.0,1.0,2025-11-22 18:55:38,2025-11-22 18:55:38,3920.69,False,High
+U001889,2025-09-19,1,value,web,7.0,0.0,,,0.0,False,No Purchase
+U001890,2025-10-04,2,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001891,2026-01-04,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001892,2025-10-01,1,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001893,2025-10-09,2,value,web,4.0,1.0,2025-12-16 06:21:15,2025-12-16 06:21:15,8193.26,False,High
+U001894,2025-12-26,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U001895,2025-12-12,2,value,web,1.0,0.0,,,0.0,False,No Purchase
+U001896,2025-08-12,3,premium,web,6.0,1.0,2025-12-09 11:00:54,2025-12-09 11:00:54,1304.13,False,High
+U001897,2025-06-26,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001898,2025-11-02,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001899,2025-12-17,1,premium,web,6.0,0.0,,,0.0,False,No Purchase
+U001900,2025-10-17,3,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001901,2025-08-06,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001902,2025-11-26,3,regular,mobile,5.0,1.0,2025-11-28 14:29:05,2025-11-28 14:29:05,6521.93,False,High
+U001903,2025-11-11,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001904,2025-10-20,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001905,2025-12-21,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001906,2025-12-05,2,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001907,2025-11-10,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001908,2025-11-10,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U001909,2025-11-09,2,regular,web,4.0,1.0,2025-12-25 07:13:01,2025-12-25 07:13:01,9791.93,False,High
+U001910,2025-10-11,1,regular,web,6.0,0.0,,,0.0,False,No Purchase
+U001911,2025-09-28,2,value,mobile,0.0,0.0,,,0.0,False,No Purchase
+U001912,2025-11-19,1,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001913,2025-10-29,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001914,2025-10-04,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U001915,2025-07-20,3,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001916,2025-11-17,1,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001917,2025-11-06,1,regular,mobile,4.0,1.0,2026-01-07 14:18:11,2026-01-07 14:18:11,21428.95,False,High
+U001918,2025-09-03,1,value,web,3.0,1.0,2025-12-19 01:01:33,2025-12-19 01:01:33,11401.8,False,High
+U001919,2025-09-06,3,regular,mobile,1.0,1.0,2025-12-29 08:06:50,2025-12-29 08:06:50,11917.86,False,High
+U001920,2025-08-14,2,value,mobile,6.0,0.0,,,0.0,False,No Purchase
+U001921,2026-01-11,1,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001922,2025-12-21,1,value,mobile,7.0,1.0,2026-01-09 19:08:10,2026-01-09 19:08:10,3676.69,False,High
+U001923,2025-10-19,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001924,2025-09-15,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001925,2025-11-25,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001926,2025-10-12,2,regular,web,3.0,1.0,2025-11-26 16:28:17,2025-11-26 16:28:17,462.11,False,High
+U001927,2026-01-14,3,regular,web,4.0,1.0,2025-11-28 22:30:51,2025-11-28 22:30:51,1579.18,False,High
+U001928,2025-07-05,2,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U001929,2025-06-30,2,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U001930,2025-10-20,1,premium,web,3.0,0.0,,,0.0,False,No Purchase
+U001931,2025-08-05,3,regular,web,5.0,1.0,2025-12-24 22:01:04,2025-12-24 22:01:04,3891.33,False,High
+U001932,2025-10-28,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001933,2025-12-04,3,regular,web,8.0,1.0,2025-12-27 13:50:44,2025-12-27 13:50:44,1519.16,False,High
+U001934,2025-07-22,2,regular,web,6.0,0.0,,,0.0,False,No Purchase
+U001935,2025-09-23,1,value,web,5.0,1.0,2025-10-27 17:31:59,2025-10-27 17:31:59,3372.66,False,High
+U001936,2025-11-15,3,regular,web,7.0,1.0,2025-10-22 17:41:11,2025-10-22 17:41:11,4166.86,False,High
+U001937,2025-12-15,3,value,mobile,6.0,1.0,2025-12-11 05:38:04,2025-12-11 05:38:04,3923.05,False,High
+U001938,2025-10-05,1,value,web,6.0,2.0,2025-11-08 00:51:47,2025-12-21 01:33:37,14240.48,True,High
+U001939,2025-08-05,2,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U001940,2025-10-24,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001941,2025-09-26,3,regular,web,3.0,1.0,2025-11-17 12:20:18,2025-11-17 12:20:18,7330.15,False,High
+U001942,2025-12-02,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001943,2025-10-18,2,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001944,2025-08-21,2,premium,web,1.0,0.0,,,0.0,False,No Purchase
+U001945,2025-11-28,2,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001946,2025-10-10,2,premium,web,2.0,2.0,2025-11-15 14:20:53,2026-01-09 19:28:25,12512.64,True,High
+U001947,2025-07-30,1,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001948,2025-10-19,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001949,2026-01-08,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U001950,2025-11-18,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001951,2025-08-25,1,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001952,2025-11-19,1,value,web,3.0,2.0,2025-10-28 09:46:38,2025-11-09 14:41:43,16868.59,True,High
+U001953,2025-08-21,2,premium,mobile,6.0,1.0,2025-12-24 07:02:29,2025-12-24 07:02:29,19708.12,False,High
+U001954,2025-10-15,1,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001955,2025-10-12,1,regular,web,2.0,1.0,2025-12-09 11:25:16,2025-12-09 11:25:16,6529.52,False,High
+U001956,2025-08-14,3,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001957,2025-09-04,2,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001958,2026-01-07,2,value,web,1.0,0.0,,,0.0,False,No Purchase
+U001959,2025-08-15,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001960,2025-12-08,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001961,2025-11-10,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001962,2025-10-13,3,regular,web,5.0,2.0,2025-11-16 13:35:33,2026-01-05 00:30:27,13779.75,True,High
+U001963,2025-07-22,3,value,web,2.0,0.0,,,0.0,False,No Purchase
+U001964,2025-08-05,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U001965,2025-07-31,2,regular,mobile,0.0,0.0,,,0.0,False,No Purchase
+U001966,2025-10-24,3,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001967,2026-01-13,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001968,2025-12-24,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001969,2025-06-28,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001970,2025-08-19,2,value,web,4.0,1.0,2025-11-27 06:33:11,2025-11-27 06:33:11,10973.11,False,High
+U001971,2025-07-26,1,value,web,6.0,0.0,,,0.0,False,No Purchase
+U001972,2026-01-14,2,premium,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001973,2025-08-11,1,regular,web,3.0,1.0,2025-12-06 11:26:44,2025-12-06 11:26:44,9654.97,False,High
+U001974,2025-08-04,2,regular,web,5.0,1.0,2025-11-14 07:34:30,2025-11-14 07:34:30,11773.74,False,High
+U001975,2025-10-31,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U001976,2025-10-18,3,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001977,2025-08-09,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001978,2025-11-11,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001979,2025-07-13,2,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001980,2025-06-27,1,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U001981,2025-07-10,1,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001982,2025-09-08,1,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001983,2026-01-14,1,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001984,2025-10-16,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U001985,2025-11-28,2,value,mobile,5.0,1.0,2026-01-01 11:04:40,2026-01-01 11:04:40,9146.39,False,High
+U001986,2025-08-29,2,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U001987,2025-11-21,1,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001988,2026-01-12,1,value,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001989,2025-09-06,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U001990,2026-01-19,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U001991,2025-11-04,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001992,2025-11-27,2,premium,mobile,5.0,0.0,,,0.0,False,No Purchase
+U001993,2025-08-15,1,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U001994,2025-11-05,1,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U001995,2025-10-08,3,regular,web,3.0,1.0,2026-01-14 12:05:30,2026-01-14 12:05:30,6409.11,False,High
+U001996,2026-01-10,1,premium,mobile,6.0,1.0,2026-01-19 09:08:01,2026-01-19 09:08:01,3169.21,False,High
+U001997,2025-12-30,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U001998,2025-09-14,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U001999,2026-01-08,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U002000,2025-12-26,2,value,mobile,5.0,1.0,2025-11-14 05:44:12,2025-11-14 05:44:12,14108.9,False,High
+U002001,2025-10-25,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U002002,2025-07-10,3,premium,mobile,0.0,0.0,,,0.0,False,No Purchase
+U002003,2025-07-27,1,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U002004,2025-07-09,3,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U002005,2025-07-16,1,regular,web,2.0,1.0,2025-11-20 02:19:58,2025-11-20 02:19:58,14051.04,False,High
+U002006,2026-01-14,2,regular,mobile,3.0,1.0,2025-10-23 17:54:15,2025-10-23 17:54:15,4820.57,False,High
+U002007,2025-08-06,2,premium,mobile,3.0,0.0,,,0.0,False,No Purchase
+U002008,2025-11-15,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U002009,2025-11-04,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U002010,2025-11-02,1,value,mobile,0.0,0.0,,,0.0,False,No Purchase
+U002011,2025-08-05,3,regular,web,6.0,1.0,2025-12-20 16:52:29,2025-12-20 16:52:29,9397.94,False,High
+U002012,2025-10-23,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U002013,2025-11-01,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U002014,2025-10-21,3,value,web,1.0,0.0,,,0.0,False,No Purchase
+U002015,2025-08-01,1,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U002016,2025-11-22,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U002017,2025-07-08,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U002018,2025-10-25,3,value,web,4.0,1.0,2025-10-26 12:56:45,2025-10-26 12:56:45,6765.22,False,High
+U002019,2025-09-23,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U002020,2025-08-15,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U002021,2025-12-09,2,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U002022,2025-07-30,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U002023,2026-01-05,1,premium,web,3.0,1.0,2025-10-21 18:48:03,2025-10-21 18:48:03,15438.06,False,High
+U002024,2025-12-26,1,regular,mobile,5.0,1.0,2025-11-22 13:36:37,2025-11-22 13:36:37,844.4,False,High
+U002025,2025-09-07,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U002026,2025-08-26,1,value,web,4.0,0.0,,,0.0,False,No Purchase
+U002027,2025-07-22,3,regular,web,6.0,1.0,2025-12-14 22:28:17,2025-12-14 22:28:17,10772.51,False,High
+U002028,2026-01-01,3,regular,web,7.0,1.0,2026-01-16 21:31:59,2026-01-16 21:31:59,10736.71,False,High
+U002029,2025-11-02,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U002030,2025-06-30,1,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U002031,2025-10-08,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U002032,2025-07-11,1,regular,mobile,4.0,1.0,2025-11-01 02:02:38,2025-11-01 02:02:38,12399.47,False,High
+U002033,2025-10-21,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U002034,2025-10-08,2,regular,mobile,6.0,0.0,,,0.0,False,No Purchase
+U002035,2025-07-10,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U002036,2025-12-11,2,premium,web,3.0,2.0,2025-12-21 08:44:45,2025-12-24 07:55:09,12039.74,True,High
+U002037,2025-08-17,2,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U002038,2025-10-15,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U002039,2025-11-04,1,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U002040,2026-01-11,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U002041,2025-10-05,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U002042,2026-01-02,2,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U002043,2025-09-05,2,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U002044,2025-12-20,2,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U002045,2025-08-11,1,value,web,4.0,1.0,2026-01-14 09:20:30,2026-01-14 09:20:30,13092.12,False,High
+U002046,2025-11-19,1,value,web,2.0,1.0,2025-11-29 16:00:35,2025-11-29 16:00:35,11588.58,False,High
+U002047,2025-07-12,1,regular,mobile,2.0,1.0,2026-01-08 15:30:55,2026-01-08 15:30:55,10782.75,False,High
+U002048,2026-01-16,3,regular,web,2.0,1.0,2025-11-26 07:37:38,2025-11-26 07:37:38,2353.71,False,High
+U002049,2026-01-09,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U002050,2025-09-24,3,value,mobile,5.0,1.0,2026-01-12 21:19:20,2026-01-12 21:19:20,6822.08,False,High
+U002051,2025-10-11,1,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U002052,2025-10-26,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U002053,2025-08-20,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U002054,2025-11-12,2,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U002055,2025-11-17,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U002056,2025-10-11,3,premium,web,1.0,0.0,,,0.0,False,No Purchase
+U002057,2025-07-24,3,value,web,5.0,0.0,,,0.0,False,No Purchase
+U002058,2026-01-02,1,regular,web,4.0,2.0,2025-11-02 09:51:30,2025-12-14 08:53:35,10112.060000000001,True,High
+U002059,2025-07-17,3,value,web,1.0,0.0,,,0.0,False,No Purchase
+U002060,2025-11-02,1,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U002061,2025-07-15,3,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U002062,2025-07-24,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U002063,2025-06-27,2,value,web,5.0,1.0,2025-12-30 04:02:03,2025-12-30 04:02:03,15434.57,False,High
+U002064,2025-09-07,1,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U002065,2025-11-04,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U002066,2025-10-10,1,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U002067,2025-11-12,3,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U002068,2025-11-12,3,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U002069,2025-07-22,3,premium,mobile,7.0,0.0,,,0.0,False,No Purchase
+U002070,2025-07-05,1,value,mobile,2.0,1.0,2025-10-23 20:29:14,2025-10-23 20:29:14,2650.91,False,High
+U002071,2025-11-01,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U002072,2025-11-07,2,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U002073,2025-10-18,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U002074,2025-08-14,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U002075,2025-12-10,2,regular,mobile,6.0,1.0,2025-11-17 08:51:17,2025-11-17 08:51:17,16201.91,False,High
+U002076,2025-07-09,2,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U002077,2025-11-03,1,value,mobile,4.0,2.0,2025-10-24 15:35:28,2025-11-18 20:27:51,17396.97,True,High
+U002078,2025-07-18,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U002079,2025-11-07,2,regular,mobile,3.0,1.0,2025-12-19 08:17:30,2025-12-19 08:17:30,4923.49,False,High
+U002080,2025-09-19,1,regular,web,3.0,1.0,2025-11-18 08:23:03,2025-11-18 08:23:03,4680.24,False,High
+U002081,2025-11-21,3,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U002082,2025-07-04,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U002083,2025-10-18,3,value,web,3.0,1.0,2026-01-12 20:14:34,2026-01-12 20:14:34,2986.59,False,High
+U002084,2025-07-23,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U002085,2025-11-13,3,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U002086,2025-07-18,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U002087,2025-07-08,3,regular,web,6.0,2.0,2025-10-29 10:37:14,2025-11-28 10:36:07,5347.76,True,High
+U002088,2025-11-20,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U002089,2025-07-06,2,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U002090,2025-08-09,1,value,mobile,8.0,0.0,,,0.0,False,No Purchase
+U002091,2025-12-13,2,regular,web,0.0,0.0,,,0.0,False,No Purchase
+U002092,2025-12-10,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U002093,2025-12-19,1,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U002094,2025-08-30,1,value,web,4.0,0.0,,,0.0,False,No Purchase
+U002095,2025-10-12,2,regular,web,3.0,1.0,2026-01-09 09:12:02,2026-01-09 09:12:02,7259.39,False,High
+U002096,2025-12-02,1,premium,web,5.0,0.0,,,0.0,False,No Purchase
+U002097,2025-07-22,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U002098,2025-11-22,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U002099,2025-07-13,3,regular,web,3.0,1.0,2025-11-22 22:55:02,2025-11-22 22:55:02,5692.08,False,High
+U002100,2026-01-01,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U002101,2025-11-04,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U002102,2025-10-05,2,premium,mobile,0.0,0.0,,,0.0,False,No Purchase
+U002103,2025-10-03,2,premium,mobile,8.0,1.0,2025-12-31 10:44:44,2025-12-31 10:44:44,17098.94,False,High
+U002104,2025-07-31,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U002105,2025-09-04,1,value,web,4.0,0.0,,,0.0,False,No Purchase
+U002106,2025-11-23,3,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U002107,2025-10-15,1,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U002108,2025-10-12,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U002109,2025-08-03,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U002110,2025-11-15,1,value,web,4.0,0.0,,,0.0,False,No Purchase
+U002111,2025-09-13,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U002112,2025-07-31,1,value,web,1.0,0.0,,,0.0,False,No Purchase
+U002113,2026-01-07,3,value,web,6.0,3.0,2025-10-27 00:07:57,2026-01-14 19:42:04,24476.73,True,High
+U002114,2025-10-07,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U002115,2025-10-12,1,premium,mobile,4.0,0.0,,,0.0,False,No Purchase
+U002116,2026-01-15,1,value,mobile,4.0,0.0,,,0.0,False,No Purchase
+U002117,2025-09-08,3,value,web,2.0,0.0,,,0.0,False,No Purchase
+U002118,2026-01-07,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U002119,2025-11-16,3,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U002120,2025-11-03,3,premium,web,6.0,3.0,2025-12-12 08:27:41,2026-01-06 21:33:04,22891.21,True,High
+U002121,2025-08-11,2,premium,mobile,5.0,0.0,,,0.0,False,No Purchase
+U002122,2025-07-04,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U002123,2025-09-23,3,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U002124,2025-06-25,3,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U002125,2025-07-08,1,value,mobile,6.0,0.0,,,0.0,False,No Purchase
+U002126,2025-10-26,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U002127,2025-11-22,1,value,web,3.0,0.0,,,0.0,False,No Purchase
+U002128,2025-07-28,2,value,web,5.0,1.0,2025-12-17 21:46:51,2025-12-17 21:46:51,8558.07,False,High
+U002129,2025-11-24,3,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U002130,2026-01-08,2,value,web,6.0,0.0,,,0.0,False,No Purchase
+U002131,2025-11-26,2,value,web,3.0,0.0,,,0.0,False,No Purchase
+U002132,2025-12-05,2,regular,mobile,2.0,0.0,,,0.0,False,No Purchase
+U002133,2025-11-17,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U002134,2025-08-09,2,value,mobile,5.0,1.0,2025-12-13 18:59:12,2025-12-13 18:59:12,6391.34,False,High
+U002135,2025-09-07,3,value,web,4.0,0.0,,,0.0,False,No Purchase
+U002136,2026-01-08,2,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U002137,2025-11-09,2,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U002138,2025-12-06,3,regular,mobile,7.0,1.0,2025-10-28 06:31:00,2025-10-28 06:31:00,3569.39,False,High
+U002139,2026-01-12,1,premium,mobile,2.0,1.0,2025-12-23 15:40:44,2025-12-23 15:40:44,4945.14,False,High
+U002140,2025-08-11,2,regular,mobile,4.0,0.0,,,0.0,False,No Purchase
+U002141,2025-08-29,1,regular,web,1.0,1.0,2025-10-27 16:38:24,2025-10-27 16:38:24,2361.02,False,High
+U002142,2025-11-05,3,regular,web,1.0,1.0,2025-12-15 04:14:34,2025-12-15 04:14:34,2428.21,False,High
+U002143,2025-06-28,3,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U002144,2025-10-21,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U002145,2025-12-10,1,value,web,0.0,0.0,,,0.0,False,No Purchase
+U002146,2025-10-29,1,regular,web,7.0,0.0,,,0.0,False,No Purchase
+U002147,2025-08-24,2,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U002148,2025-11-22,2,value,mobile,0.0,0.0,,,0.0,False,No Purchase
+U002149,2025-07-24,3,value,mobile,3.0,0.0,,,0.0,False,No Purchase
+U002150,2025-12-28,3,value,mobile,1.0,0.0,,,0.0,False,No Purchase
+U002151,2025-07-14,2,value,web,0.0,0.0,,,0.0,False,No Purchase
+U002152,2025-12-21,3,regular,web,5.0,2.0,2025-10-26 16:00:14,2026-01-04 08:58:07,8945.59,True,High
+U002153,2025-10-05,3,regular,mobile,7.0,0.0,,,0.0,False,No Purchase
+U002154,2025-09-21,2,regular,mobile,7.0,2.0,2025-12-04 17:53:47,2025-12-25 13:36:17,16789.8,True,High
+U002155,2025-10-06,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U002156,2025-08-04,3,value,web,3.0,0.0,,,0.0,False,No Purchase
+U002157,2025-09-27,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U002158,2025-12-18,3,regular,web,4.0,0.0,,,0.0,False,No Purchase
+U002159,2025-12-08,1,value,web,2.0,0.0,,,0.0,False,No Purchase
+U002160,2025-07-27,2,value,web,6.0,1.0,2025-11-02 17:13:55,2025-11-02 17:13:55,3846.26,False,High
+U002161,2025-11-11,3,regular,mobile,4.0,1.0,2025-10-27 19:48:00,2025-10-27 19:48:00,7558.89,False,High
+U002162,2025-12-20,2,regular,mobile,5.0,0.0,,,0.0,False,No Purchase
+U002163,2025-12-12,2,premium,web,0.0,0.0,,,0.0,False,No Purchase
+U002164,2025-09-20,2,regular,mobile,3.0,0.0,,,0.0,False,No Purchase
+U002165,2025-07-03,1,regular,mobile,7.0,0.0,,,0.0,False,No Purchase
+U002166,2026-01-04,1,regular,web,2.0,0.0,,,0.0,False,No Purchase
+U002167,2025-09-14,2,value,mobile,9.0,2.0,2026-01-05 07:09:16,2026-01-13 03:29:09,2079.59,True,High
+U002168,2025-09-07,2,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U002169,2025-11-29,2,regular,mobile,6.0,0.0,,,0.0,False,No Purchase
+U002170,2025-08-17,1,value,web,3.0,1.0,2025-12-03 23:15:39,2025-12-03 23:15:39,2139.67,False,High
+U002171,2025-12-15,3,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U002172,2025-07-09,2,regular,mobile,6.0,0.0,,,0.0,False,No Purchase
+U002173,2025-11-25,2,value,web,4.0,0.0,,,0.0,False,No Purchase
+U002174,2026-01-12,2,value,web,5.0,0.0,,,0.0,False,No Purchase
+U002175,2026-01-18,1,premium,web,3.0,0.0,,,0.0,False,No Purchase
+U002176,2026-01-03,3,premium,mobile,2.0,0.0,,,0.0,False,No Purchase
+U002177,2025-12-23,2,regular,mobile,1.0,0.0,,,0.0,False,No Purchase
+U002178,2025-08-21,1,premium,web,2.0,0.0,,,0.0,False,No Purchase
+U002179,2026-01-12,3,premium,mobile,6.0,0.0,,,0.0,False,No Purchase
+U002180,2026-01-04,3,regular,web,1.0,1.0,2026-01-05 11:14:05,2026-01-05 11:14:05,5279.16,False,High
+U002181,2025-10-13,3,premium,web,4.0,1.0,2025-12-11 02:48:12,2025-12-11 02:48:12,10713.81,False,High
+U002182,2025-09-15,3,regular,web,5.0,1.0,2025-12-18 03:00:39,2025-12-18 03:00:39,6859.11,False,High
+U002183,2025-07-16,3,regular,web,3.0,0.0,,,0.0,False,No Purchase
+U002184,2025-10-25,2,regular,web,5.0,0.0,,,0.0,False,No Purchase
+U002185,2025-11-17,2,regular,web,6.0,1.0,2025-12-05 05:10:39,2025-12-05 05:10:39,6428.56,False,High
+U002186,2025-09-16,2,value,web,3.0,1.0,2025-12-16 04:55:15,2025-12-16 04:55:15,2023.53,False,High
+U002187,2025-09-16,2,regular,mobile,5.0,1.0,2025-10-26 08:23:37,2025-10-26 08:23:37,12795.21,False,High
+U002188,2025-10-21,1,premium,web,1.0,0.0,,,0.0,False,No Purchase
+U002189,2025-06-29,1,value,mobile,0.0,0.0,,,0.0,False,No Purchase
+U002190,2026-01-10,2,premium,mobile,3.0,0.0,,,0.0,False,No Purchase
+U002191,2025-08-23,3,regular,mobile,5.0,1.0,2025-11-15 07:58:50,2025-11-15 07:58:50,9640.7,False,High
+U002192,2025-07-23,3,value,web,5.0,2.0,2025-12-06 22:53:33,2026-01-18 19:25:42,22900.53,True,High
+U002193,2025-06-24,2,value,mobile,6.0,1.0,2026-01-12 08:17:23,2026-01-12 08:17:23,12962.0,False,High
+U002194,2025-12-20,1,regular,web,7.0,0.0,,,0.0,False,No Purchase
+U002195,2025-12-21,2,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U002196,2025-07-13,2,value,web,2.0,0.0,,,0.0,False,No Purchase
+U002197,2025-07-25,3,regular,web,1.0,0.0,,,0.0,False,No Purchase
+U002198,2025-09-25,3,value,mobile,2.0,0.0,,,0.0,False,No Purchase
+U002199,2025-08-01,3,regular,mobile,3.0,1.0,2025-12-06 08:51:50,2025-12-06 08:51:50,3148.24,False,High
+U002200,2025-11-24,3,premium,mobile,7.0,0.0,,,0.0,False,No Purchase

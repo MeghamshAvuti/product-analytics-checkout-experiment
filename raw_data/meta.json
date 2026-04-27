@@ -1,0 +1,13 @@
+{
+  "generated_at_utc": "2026-01-19T10:34:34",
+  "seed": 42,
+  "n_users": 2200,
+  "n_products": 220,
+  "n_sessions": 9036,
+  "n_events": 18945,
+  "n_orders": 707,
+  "notes": [
+    "sessions.csv contains some missing device values, inconsistent channel casing, and duplicates",
+    "variant is assigned only for eligible sessions (web + logged-in + eligible flag). Non-eligible sessions are baseline."
+  ]
+}
