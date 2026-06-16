@@ -15,13 +15,13 @@ This repository contains the **complete workflow** — including raw data, ETL p
 - Jupyter Notebook (Analysis)
 - SQL-style data modeling (fact/dimension tables)
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 > Executive Summary and Experiment Insights
 
 ![Dashboard](dashboard/dashboard_screenshots/executive_summary.png)
 
-## 🚀 Overview
+## Overview
 
 This project analyzes the impact of a redesigned checkout experience (**Variant B**) on user behavior and revenue outcomes.
 
@@ -54,7 +54,7 @@ This project evaluates whether Variant B should be rolled out based on:
 - Statistical significance
 - Segment-level performance
 
-## 🧠 Key Insights
+## Key Insights
 
 - Conversion rate increased under Variant B (**+1.57pp / +18.2% lift**)
 - Revenue per session decreased → **monetization issue**
@@ -66,7 +66,7 @@ This project evaluates whether Variant B should be rolled out based on:
 - Largest drop-off occurs at:
   - **Product View → Add to Cart (~20%)**
 
-📌 **Conclusion:**  
+ **Conclusion:**  
 Variant B improves conversion but introduces revenue risk → rollout not recommended yet.
 
 ---
@@ -173,7 +173,7 @@ Open the notebook (`analysis.ipynb`) and run all cells to reproduce:
 - Segment insights  
 - Business impact  
 
-## 📊 Dashboard
+## Dashboard
 
 Open in Tableau:
 
@@ -191,7 +191,7 @@ dashboard/checkout_experiment_dashboard.twbx
 
 ---
 
-## 📈 Analytical Coverage
+## Analytical Coverage
 
 ### 🔹 Funnel Analysis
 - Step conversion rates  
